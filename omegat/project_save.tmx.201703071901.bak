@@ -38,43 +38,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T123504Z" creationid="maabou" creationdate="20170307T123125Z">
-        <seg>FOSS (フリー/オープンソース・ソフトウェア) －オープンソース・イニシアティブ(OpenSource.org)によって発行されているオープンソース定義、もしくはフリーソフトウェア・ファウンデーションによって発行されているフリーソフトウェア定義に当てはまるライセンス、もしくはそれに類似した1つ以上のライセンスに従うソフトウェアのこと</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <note> inquiresは誤字？inquiries?</note>
-      <tuv lang="EN-US">
-        <seg>FOSS Liaison - a designated person who is assigned to receive external FOSS inquires.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T125520Z" creationid="maabou" creationdate="20170307T125222Z">
-        <seg>FOSS 窓口担当－外部からのFOSSに係る問合せを受け付ける、指名された人のこと</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T130052Z" creationid="maabou" creationdate="20170307T125249Z">
-        <seg>確認されたライセンス－適切な方法に則り確認ができたFOSSライセンスのこと</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.0 of the specification.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T130410Z" creationid="maabou" creationdate="20170307T093548Z">
-        <seg>すべての要件をそのプログラムが満たしている場合、それは仕様書1.0版における「 OpenChain 準拠(OpenChain Conforming)」とみなされる。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T094620Z" creationid="maabou" creationdate="20170307T093548Z">
+        <seg>すべての要件をそのプログラムが満たしている場合、それは仕様書1.0版での「 OpenChain 適合(OpenChain Conforming)」とみなされる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does not guarantee full compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T130303Z" creationid="maabou" creationdate="20170307T093253Z">
-        <seg>上記ビジョンとミッションに則り、本仕様書ではこれに適合するならばそのオープンソース・コンプライアンスプログラムは十分なレベルでの品質、一貫性と完全性を獲得している、その可能性を著しく高めてくれるであろう要件の一式を定義する。ただし、本要件のすべてを満たしていたとしてもそれが完全なコンプライアンスプログラムであることを保証するものではない。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093253Z" creationid="maabou" creationdate="20170307T093253Z">
+        <seg>上記ビジョンとミッションに則り、本仕様書ではこれに適合するならばそのオープンソース・コンプライアンスプログラムは十分なレベルでの品質、一貫性と完全性を獲得している、その可能性を著しく高めてくれるであろう要件の一式を定義する。ただし、本要件のすべてを満たしていたとしてもそのプログラムが完全なコンプライアンスであることを保証するものではない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -103,14 +78,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>OpenChain Conforming – a program that satisfies all the requirements of this specification.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T130537Z" creationid="maabou" creationdate="20170307T130208Z">
-        <seg>OpenChain準拠 －本仕様書のすべての要件を満たすプログラムのこと</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Section 2 introduces definitions of key terms used throughout the specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093419Z" creationid="maabou" creationdate="20170307T093419Z">
@@ -123,14 +90,6 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093525Z" creationid="maabou" creationdate="20170307T093525Z">
         <seg>第3節では、仕様としての要件を示していく。それぞれに 一つ以上の「検証対象」が存在する。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T130606Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェアスタッフ－</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,8 +144,8 @@
       <tuv lang="EN-US">
         <seg>They include (but are not limited to) the following: copyright notices, copies of licenses, modification notifications, attribution notices, source code, written offers and so forth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T123443Z" creationid="maabou" creationdate="20170307T100106Z">
-        <seg>以下を含んでいるもの：著作権表示（Copyright notice）、ライセンスのコピー、修正箇所の通知、帰属情報の通知、ソースコード、書面による提案など</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T100106Z" creationid="maabou" creationdate="20170307T100106Z">
+        <seg>以下を含んでいる：著作権表示（Copyright notice）、ライセンスのコピー、修正箇所の通知、帰属情報の通知、ソースコード、書面による提案など</seg>
       </tuv>
     </tu>
     <tu>

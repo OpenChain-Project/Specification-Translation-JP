@@ -1,0 +1,5 @@
+free and open source software	フリー/オープンソース・ソフトウェア
+ Open Source Initiative	オープンソース・イニシアティブ	団体名（固有名詞）
+Free Software Foundation	フリーソフトウェア・ファウンデーション	団体の固有名称につきそのままカタカナ表記する。
+liaison	窓口	辞書では連絡係、通信係といった意味があるが、窓口がわかり易い
+conforming	準拠
