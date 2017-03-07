@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T203917Z" creationid="maabou" creationdate="20170307T203633Z">
+        <seg>組織によっては、ソフトウェア開発者、リリースエンジニア、品質管理技術者、プロダクトマーケティング担当者やプロダクト管理者が含まれる場合があるが、この限りではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distributed Compliance Artifacts - the set of artifacts that an Identified License requires be provided with Supplied Software.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T095453Z" creationid="maabou" creationdate="20170307T095021Z">
@@ -129,8 +137,8 @@
       <tuv lang="EN-US">
         <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T133648Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェアスタッフ－提供されるソフトウェアを作り出し、コントリビュートし、もしくはそれを使えるようにするために責任を有しているあらゆる従業員や契約者のこと</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T203639Z" creationid="maabou" creationdate="20170307T130606Z">
+        <seg>ソフトウェアスタッフ－提供されるソフトウェアを作り出し、コントリビュートし、もしくはそれを使えるようにするために責任を有しているあらゆる従業員や契約者のこと。</seg>
       </tuv>
     </tu>
     <tu>

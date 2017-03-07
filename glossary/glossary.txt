@@ -1,5 +1,39 @@
+OpenChain	OpenChain	日本語表記せずそのまま使う
+conformance	適合性
+specification	仕様	仕様書
+specification	仕様書	仕様の意味でも使う
+conformance specification	適合仕様	意味：適合性を確認するための仕様
+FOSS	フリー/オープンソース・ソフトウェア	Free/Open Source Software
+Version 	版	【例】Version X.X = 第X.X版
+Contents	目次
+Introduction	序文
+Introduction	はしがき
+Introduction	はじめに
+introduction	序論	言い回しはいろいろあるので文書特性に応じて使い分けること
+initiative	イニシアチブ	基本的に日本語に変えずに用いたほうがよさそう
+practitioner	実践する人
+initiative	取組み
+open source	オープンソース
+open source software	オープンソース・ソフトウェア	中黒を入れて区切る
+supply chain	サプライチェーン
+emerging	新たに出現した	emerging
+observe	観測する
+observe	気づく
+organization	組織
+exchange	交換する
+exchange	やり取りする
+the latter	後者	前者：the former
+accompany	添える	添付するなど
+ artifacts	人工物	基本の意味：ヒトの手で作られたもの
+ artifacts	（ソフトウェア開発などでの）ドキュメント類	ソフトウェア開発としての意味では以下参照。"tangible by-product"とある。 https://en.wikipedia.org/wiki/Artifact_(software_development)
+deliver	届ける
+deliver	デリバリされる	デリバリされる→ITサービス系の用語だとこういう使い方もありそう
+deliver	やりとりする	やりとりする→ちょっと意訳
+collateral	付随事項	意味：派生事項的な意味。以下から→http://www.dictionary.com/browse/collateral?s=t
+qualitｙ	属性
+verification artifacts	検証対象	ここは意訳なので、要議論
 free and open source software	フリー/オープンソース・ソフトウェア
- Open Source Initiative	オープンソース・イニシアティブ	団体名（固有名詞）
+Open Source Initiative	オープンソース・イニシアティブ	団体名（固有名詞）
 Free Software Foundation	フリーソフトウェア・ファウンデーション	団体の固有名称につきそのままカタカナ表記する。
 liaison	窓口	辞書では連絡係、通信係といった意味があるが、窓口がわかり易い
 conforming	準拠
