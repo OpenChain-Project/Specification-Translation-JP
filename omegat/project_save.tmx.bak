@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093557Z" creationid="maabou" creationdate="20170307T093557Z">
+        <seg>用語の定義</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.0 of the specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T094620Z" creationid="maabou" creationdate="20170307T093548Z">
+        <seg>すべての要件をそのプログラムが満たしている場合、それは仕様書1.0版での「 OpenChain 適合(OpenChain Conforming)」とみなされる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does not guarantee full compliance.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093253Z" creationid="maabou" creationdate="20170307T093253Z">
@@ -58,6 +74,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093419Z" creationid="maabou" creationdate="20170307T093419Z">
         <seg>第2節では、仕様として全般で用いられる重要用語について定義していく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 3 presents the specification requirements where each one has a list of one or more Verificatione Artifacts.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093525Z" creationid="maabou" creationdate="20170307T093525Z">
+        <seg>第3節では、仕様としての要件を示していく。それぞれに 一つ以上の「検証対象」が存在する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +130,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T092936Z" creationid="maabou" creationdate="20170307T092936Z">
         <seg>本研究グループは、ワーキンググループへと発展、のち2016年4月 、正式にThe Linux Foundationのコラボレーティブ・プロジェクトとして組織されることとなった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They represent the evidence that must exist in order for a given requirement to be considered satisfied.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093541Z" creationid="maabou" creationdate="20170307T093541Z">
+        <seg>これらは提示された要件が満たされているかどうかを検討するために存在しなくてはならない、確証としての役割を担っている。</seg>
       </tuv>
     </tu>
     <tu>
