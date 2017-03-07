@@ -4,6 +4,126 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T092921Z" creationid="maabou" creationdate="20170307T092921Z">
+        <seg>こういった背景から、標準的なプログラムの仕様というものを整備することができるかどうか検討する研究グループが形成された。これは、 i) 産業横断的に共有されるオープンソース・コンプライアンスに係る情報の品質と一貫性を促進し;  ii)コンプライアンス作業の再実施に起因する、オープンソースに関連するトランザクションコストの低減することを見据えている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T092832Z" creationid="maabou" creationdate="20170307T092832Z">
+        <seg>結果として、サプライチェーンのそれぞれの段階において、上流側組織で既に実施したコンプライアンス業務を下流組織で再び実施されていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does not guarantee full compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093253Z" creationid="maabou" creationdate="20170307T093253Z">
+        <seg>上記ビジョンとミッションに則り、本仕様書ではこれに適合するならばそのオープンソース・コンプライアンスプログラムは十分なレベルでの品質、一貫性と完全性を獲得している、その可能性を著しく高めてくれるであろう要件の一式を定義する。ただし、本要件のすべてを満たしていたとしてもそのプログラムが完全なコンプライアンスであることを保証するものではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T092335Z" creationid="maabou" creationdate="20170307T092335Z">
+        <seg>はじめに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the  requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093158Z" creationid="maabou" creationdate="20170307T093145Z">
+        <seg>ミッション:  フリー/オープンソース・ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア・サプライチェーンの参加者のために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain Conformance Specification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T091622Z" creationid="maabou" creationdate="20170307T091622Z">
+        <seg>Openchain 適合仕様書</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Section 2 introduces definitions of key terms used throughout the specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093419Z" creationid="maabou" creationdate="20170307T093419Z">
+        <seg>第2節では、仕様として全般で用いられる重要用語について定義していく。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T092358Z" creationid="maabou" creationdate="20170307T092358Z">
+        <seg>OpenChain イニシアチブがスタートした2013年、この年ソフトウェア・サプライチェーンでオープンソースを活用していた実践者たちは、表面化してきている2つのパターンを観測していた：1) 成熟したオープンソース・コンプライアンスプログラムを持つ組織では、そのプロセスに意味ありげな類似性があったが； 2)一方でいまだ多くの組織においてソフトウェアのやり取りするためのプログラムは非先進的なものだった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Vision and Mission of the OpenChain Initiative are as follows:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093105Z" creationid="maabou" creationdate="20170307T093105Z">
+        <seg>OpenChain イニシアチブは以下のビジョンとミッションを有する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The latter observation resulted in a lack of trust in the consistency and quality of the compliance artifacts accompanying the software being exchanged.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T092845Z" creationid="maabou" creationdate="20170307T092756Z">
+        <seg>後者では、ソフトウェアのやり取りに付随する、コンプライアンス関連生成物の一貫性や品質について信頼を喪失させる事態を引き起こし、.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain Conforming.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093320Z" creationid="maabou" creationdate="20170307T093320Z">
+        <seg>本要件は、そのプログラムがOpenChain  に適合しているとみなすために満足していなければならない、ベースレベル（最低限）の要件セットを示したものである。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The specification focuses on the “what” and “why” qualities of a compliance program as opposed to the “how” and “when” considerations.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093348Z" creationid="maabou" creationdate="20170307T093348Z">
+        <seg>本仕様書は、「どうやって(How）」や「いつ(When)」といった考慮ではなく、コンプライアンスプログラムの「何(What)」、「なぜ(Why)」の属性に焦点をあてている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The study group evolved into a work group, and in April 2016, formally organized as a Linux Foundation collaborative project.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T092936Z" creationid="maabou" creationdate="20170307T092936Z">
+        <seg>本研究グループは、ワーキンググループへと発展、のち2016年4月 、正式にThe Linux Foundationのコラボレーティブ・プロジェクトとして組織されることとなった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ensures a practical level of flexibility that enables different organizations to tailor their policies and processes to best fit their objectives.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093357Z" creationid="maabou" creationdate="20170307T093357Z">
+        <seg>また本仕様書は、さまざまな組織が自身のポリシーやプロセスが目的にベストフィットするよう仕立て上げられるよう、実用的なレベルでの柔軟性を確保している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vision: A software supply chain where free/open source software (FOSS) is delivered with trusted and consistent compliance information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T093122Z" creationid="maabou" creationdate="20170307T093122Z">
+        <seg>ビジョン： フリー/オープンソース・ソフトウェア(FOSS)が、信頼でき一貫性のあるコンプライアンス情報とともに提供されるソフトウェア・サプライチェーンを実現すること</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
