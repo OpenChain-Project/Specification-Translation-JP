@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>Distributed Compliance Artifacts - the set of artifacts that an Identified License requires be provided with Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T095453Z" creationid="maabou" creationdate="20170307T095021Z">
-        <seg>分散型コンプライアンス生成物 －供給されたソフトウェアとともに特定されたライセンスが提供されることが求められる生成物一式であり</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T095021Z" creationid="maabou" creationdate="20170307T095021Z">
+        <seg>分散型コンプライアンス生成物 -供給されたソフトウェアとともに特定されたライセンスが提供されることが求められる生成物一式</seg>
       </tuv>
     </tu>
     <tu>

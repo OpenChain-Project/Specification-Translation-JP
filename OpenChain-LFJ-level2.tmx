@@ -32,8 +32,8 @@
       <tuv xml:lang="EN-US">
         <seg>Distributed Compliance Artifacts - the set of artifacts that an Identified License requires be provided with Supplied Software.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170307T095021Z" creationid="maabou" creationdate="20170307T095021Z">
-        <seg>分散型コンプライアンス生成物 -供給されたソフトウェアとともに特定されたライセンスが提供されることが求められる生成物一式</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170307T095453Z" creationid="maabou" creationdate="20170307T095021Z">
+        <seg>分散型コンプライアンス生成物 －供給されたソフトウェアとともに特定されたライセンスが提供されることが求められる生成物一式であり</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +138,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T092936Z" creationid="maabou" creationdate="20170307T092936Z">
         <seg>本研究グループは、ワーキンググループへと発展、のち2016年4月 、正式にThe Linux Foundationのコラボレーティブ・プロジェクトとして組織されることとなった。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>They include (but are not limited to) the following: copyright notices, copies of licenses, modification notifications, attribution notices, source code, written offers and so forth.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170307T100106Z" creationid="maabou" creationdate="20170307T100106Z">
+        <seg>以下を含んでいる：著作権表示（Copyright notice）、ライセンスのコピー、修正箇所の通知、帰属情報の通知、ソースコード、書面による提案など</seg>
       </tuv>
     </tu>
     <tu>
