@@ -48,3 +48,5 @@ third parties	サードパーティ	そのままカタカナ表記
 third parties	第三者	文脈によっては日本語で表記
 third party	サードパーティ	そのままカタカナ表記
 third party	第三者	文脈によっては日本語で表記
+requirements	要件	要件定義など。単に「要件」だと流れが悪いので「満たすべき要件」などと表現
+know	知っている、理解している

@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170308T090725Z" creationid="maabou" creationdate="20170308T082128Z">
+        <seg>FOSSポリシーが書面として存在していることA written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T092832Z" creationid="maabou" creationdate="20170307T092832Z">
@@ -67,6 +75,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T125520Z" creationid="maabou" creationdate="20170307T125222Z">
         <seg>FOSS 窓口担当－外部からのFOSSに係る問合せを受け付ける、指名された人のこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>G1: Know Your FOSS Responsibilities</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170308T082150Z" creationid="maabou" creationdate="20170308T082001Z">
+        <seg>G1: FOSSに係る責任を理解している</seg>
       </tuv>
     </tu>
     <tu>
@@ -123,6 +139,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T130537Z" creationid="maabou" creationdate="20170307T130208Z">
         <seg>OpenChain準拠 －本仕様書のすべての要件を満たすプログラムのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170308T081828Z" creationid="maabou" creationdate="20170308T081828Z">
+        <seg>満たすべき要件Requirements</seg>
       </tuv>
     </tu>
     <tu>
