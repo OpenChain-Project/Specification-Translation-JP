@@ -24,8 +24,8 @@
       <tuv lang="EN-US">
         <seg>A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T115003Z" creationid="maabou" creationdate="20170308T082128Z">
-        <seg>供給されるソフトウェアの配布についてFOSSライセンスコンプライアンスを統制するFOSSポリシーが書面として存在していて、最低でも組織内でそれが伝わっていなければならない</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170308T090725Z" creationid="maabou" creationdate="20170308T082128Z">
+        <seg>FOSSポリシーが書面として存在していることA written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,8 +145,8 @@
       <tuv lang="EN-US">
         <seg>Requirements</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T112921Z" creationid="maabou" creationdate="20170308T081828Z">
-        <seg>満たすべき要件</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170308T081828Z" creationid="maabou" creationdate="20170308T081828Z">
+        <seg>満たすべき要件Requirements</seg>
       </tuv>
     </tu>
     <tu>
@@ -185,8 +185,8 @@
       <tuv lang="EN-US">
         <seg>Supplied Software – software that an organization delivers to third parties (e.g., other organizations or individuals).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T113730Z" creationid="maabou" creationdate="20170308T062145Z">
-        <seg>供給されるソフトウェア －組織が第三者に対し提供するソフトウェアのこと</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170308T062145Z" creationid="maabou" creationdate="20170308T062145Z">
+        <seg>供給されるソフトウェア －組織が第三者に対し提供されるソフトウェアのこと</seg>
       </tuv>
     </tu>
     <tu>
@@ -259,14 +259,6 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093357Z" creationid="maabou" creationdate="20170307T093357Z">
         <seg>また本仕様書は、さまざまな組織が自身のポリシーやプロセスが目的にベストフィットするよう仕立て上げられるよう、実用的なレベルでの柔軟性を確保している。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Verification Artifact(s):</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T115545Z" creationid="maabou" creationdate="20170308T115440Z">
-        <seg>確証として必要となるもの:</seg>
       </tuv>
     </tu>
     <tu>
