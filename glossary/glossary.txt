@@ -52,3 +52,4 @@ requirements	要件	要件定義など。単に「要件」だと流れが悪い
 know	知っている、理解している
 as a minimum	最低でも	as a minimum
 Verification Artifact(s)	確証として必要なもの	※要議論。証跡とか成果物とかいろいろ出ている
+rationale	論理的根拠

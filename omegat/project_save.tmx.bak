@@ -16,16 +16,16 @@
       <tuv lang="EN-US">
         <seg>A documented FOSS policy exists.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T115717Z" creationid="maabou" creationdate="20170308T115628Z">
-        <seg>文書化されているFOSS ポリシー</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170308T205621Z" creationid="maabou" creationdate="20170308T115628Z">
+        <seg>文書化されたFOSS ポリシー</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T205415Z" creationid="maabou" creationdate="20170308T205415Z">
-        <seg>FOSSポリシーの存在をすべてのソフトウェアスタッフがを知ることができる、文書化された手続きが存在しているA documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170308T205714Z" creationid="maabou" creationdate="20170308T205415Z">
+        <seg>FOSSポリシーの存在をすべてのソフトウェアスタッフがを知ることができる、文書化された手続き</seg>
       </tuv>
     </tu>
     <tu>
@@ -40,8 +40,8 @@
       <tuv lang="EN-US">
         <seg>A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T115003Z" creationid="maabou" creationdate="20170308T082128Z">
-        <seg>供給されるソフトウェアの配布についてFOSSライセンスコンプライアンスを統制するFOSSポリシーが書面として存在していて、最低でも組織内でそれが伝わっていなければならない</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170308T205505Z" creationid="maabou" creationdate="20170308T082128Z">
+        <seg>供給されるソフトウェアの配布についてFOSSライセンスコンプライアンスを統制するFOSSポリシーが書面として存在し、それが最低でも組織内で伝わっていなければならない</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +74,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T060500Z" creationid="maabou" creationdate="20170307T095021Z">
         <seg>頒布・配布コンプライアンス生成物 －供給されたソフトウェアとともに特定されたライセンスが提供されることが求められる生成物一式であり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T044720Z" creationid="maabou" creationdate="20170309T044720Z">
+        <seg>これにより確実に製造・記録するステップを取ることができ、またソフトウェアスタッフにFOSSポリシーの存在を知らしめることができる。Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155,6 +163,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T130537Z" creationid="maabou" creationdate="20170307T130208Z">
         <seg>OpenChain準拠 －本仕様書のすべての要件を満たすプログラムのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rationale:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T044233Z" creationid="maabou" creationdate="20170309T044233Z">
+        <seg>論理的根拠:</seg>
       </tuv>
     </tu>
     <tu>
