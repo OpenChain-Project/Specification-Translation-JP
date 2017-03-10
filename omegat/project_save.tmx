@@ -177,8 +177,8 @@
       <tuv lang="EN-US">
         <seg>Mandatory FOSS training for all Software Staff exists such that:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170309T202404Z" creationid="maabou" creationdate="20170309T202334Z">
-        <seg>ソフトウェアスタッフ向けの受講必須のトレーニングで、</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T205017Z" creationid="maabou" creationdate="20170309T202334Z">
+        <seg>ソフトウェアスタッフ向けの受講必須のトレーニング</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +254,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani:この文面の区切りに注意。
+tani:Specificallyとin generalで対比している？</note>
+      <tuv lang="EN-US">
+        <seg>Software Staff roles and responsibilities pertaining to FOSS compliance specifically and the FOSS policy in general; and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170310T233106Z" creationid="maabou" creationdate="20170310T015630Z">
+        <seg>ソフトウェアスタッフの役割、全体としてのFOSSポリシーや具体的なFOSSコンプライアンスに付随する責任および；</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Supplied Software – software that an organization delivers to third parties (e.g., other organizations or individuals).</seg>
       </tuv>
@@ -321,7 +331,7 @@
       <tuv lang="EN-US">
         <seg>The training, as a minimum, covers the following topics:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170309T202417Z" creationid="maabou" creationdate="20170309T202417Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170310T015004Z" creationid="maabou" creationdate="20170309T202417Z">
         <seg>最低でも以下に示すトピックを含むもの：</seg>
       </tuv>
     </tu>
