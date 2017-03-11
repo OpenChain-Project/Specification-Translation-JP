@@ -38,18 +38,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A test may be used to allow Software Staff to satisfy the training requirement.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170310T235455Z" creationid="maabou" creationdate="20170310T234703Z">
+        <seg>ソフトウェアスタッフが本トレーニング要件を満足させるために試験を実施してもよい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170308T205505Z" creationid="maabou" creationdate="20170308T082128Z">
-        <seg>供給されるソフトウェアの配布についてFOSSライセンスコンプライアンスを統制するFOSSポリシーが書面として存在し、それが最低でも組織内で伝わっていなければならない</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T002335Z" creationid="maabou" creationdate="20170308T082128Z">
+        <seg>供給されるソフトウェアの配布についてFOSSライセンスコンプライアンスを統制するFOSSポリシーが書面として存在し、それが最低でも組織内で伝えられていなければならない</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Although no requirements are provided here on what should be included in the policy, other requirements in other sections may.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170309T044916Z" creationid="maabou" creationdate="20170309T044916Z">
-        <seg>本要件においてはポリシーとしてどういった内容が記載されているべきかについては触れず、その他要件にて記載する。Although no requirements are provided here on what should be included in the policy, other requirements in other sections may.</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T001635Z" creationid="maabou" creationdate="20170311T001635Z">
+        <seg>ポリシーとして記載されるべき内容についての要件についてはここでは扱わず、他節にて記載する。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58,6 +66,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T092832Z" creationid="maabou" creationdate="20170307T092832Z">
         <seg>結果として、サプライチェーンのそれぞれの段階において、上流側組織で既に実施したコンプライアンス業務を下流組織で再び実施されていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At least 85% of all Software Staff are current, as per definition in above section.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T001201Z" creationid="maabou" creationdate="20170311T001201Z">
+        <seg>全ソフトウェアスタッフのうち少なくとも85%が前節の定義によって認定されていること</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +112,8 @@
       <tuv xml:lang="EN-US">
         <seg>Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170309T044720Z" creationid="maabou" creationdate="20170309T044720Z">
-        <seg>これにより確実に製造・記録するステップを取ることができ、またソフトウェアスタッフにFOSSポリシーの存在を知らしめることができる。Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T001655Z" creationid="maabou" creationdate="20170309T044720Z">
+        <seg>これにより確実に製造・記録するステップを取ることができ、またソフトウェアスタッフにFOSSポリシーの存在を知らしめることができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -115,6 +131,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T125520Z" creationid="maabou" creationdate="20170307T125222Z">
         <seg>FOSS 窓口担当－外部からのFOSSに係る問合せを受け付ける、指名された人のこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS course materials covering the above topics exists (e.g., slide decks, online course, or other training materials).</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170310T235839Z" creationid="maabou" creationdate="20170310T235839Z">
+        <seg>上記のトピックを含んだFOSS教材（例：スライド資料、オンラインコースもしくはその他トレーニング用資料）</seg>
       </tuv>
     </tu>
     <tu>
@@ -177,8 +201,16 @@
       <tuv xml:lang="EN-US">
         <seg>Mandatory FOSS training for all Software Staff exists such that:</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170309T205017Z" creationid="maabou" creationdate="20170309T202334Z">
-        <seg>ソフトウェアスタッフ向けの受講必須のトレーニング</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T003058Z" creationid="maabou" creationdate="20170309T202334Z">
+        <seg>ソフトウェアスタッフ向けの受講必須のトレーニングが存在していること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Method of tracking the completion of the course for all Software Staff.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T000106Z" creationid="maabou" creationdate="20170311T000106Z">
+        <seg>ソフトウェアスタッフ全員がコースを修了していることを確認する方法</seg>
       </tuv>
     </tu>
     <tu>
@@ -203,6 +235,15 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T130537Z" creationid="maabou" creationdate="20170307T130208Z">
         <seg>OpenChain準拠 －本仕様書のすべての要件を満たすプログラムのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani: and/orの表現が難しい</note>
+      <tuv xml:lang="EN-US">
+        <seg>Process for identifying, recording and/or tracking of FOSS components contained in Supplied Software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170310T233552Z" creationid="maabou" creationdate="20170310T233552Z">
+        <seg>提供されるソフトウェアのFOSSコンポーネントを特定し、記録し、もしくは追跡するためのプロセス</seg>
       </tuv>
     </tu>
     <tu>
@@ -251,6 +292,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T203639Z" creationid="maabou" creationdate="20170307T130606Z">
         <seg>ソフトウェアスタッフ－提供されるソフトウェアを作り出し、コントリビュートし、もしくはそれを使えるようにするために責任を有しているあらゆる従業員や契約者のこと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Software Staff must have completed FOSS training within the last 24 months (to be considered current).</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T005258Z" creationid="maabou" creationdate="20170310T234521Z">
+        <seg>ソフトウェアスタッフはFOSSトレーニングを（現状に即すとみなされるよう）少なくとも直近24ヶ月以内に修了していなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -331,8 +380,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv xml:lang="EN-US">
         <seg>The training, as a minimum, covers the following topics:</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170310T015004Z" creationid="maabou" creationdate="20170309T202417Z">
-        <seg>最低でも以下に示すトピックを含むもの：</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170311T003116Z" creationid="maabou" creationdate="20170309T202417Z">
+        <seg>最低でも以下に示すトピックを含める：</seg>
       </tuv>
     </tu>
     <tu>
