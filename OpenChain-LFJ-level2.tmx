@@ -78,10 +78,27 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Assign individual(s) responsible for managing internal FOSS compliance.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T201441Z" creationid="maabou" creationdate="20170312T201347Z">
+        <seg>内部のFOSSコンプライアンス管理に対し責任者をアサインする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170312T081249Z" creationid="maabou" creationdate="20170312T081249Z">
         <seg>FOSSに係る外部からの問合せ受け付けに責任をもつ要員をアサインする；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここだけresponsibilitiesと複数なのは意味があるか？「責任者」ではない？</note>
+      <tuv xml:lang="EN-US">
+        <seg>Assign responsibilities to develop and maintain FOSS compliance policy and processes;</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T203455Z" creationid="maabou" creationdate="20170312T203455Z">
+        <seg>FOSSコンプライアンスポリシーとプロセスを開発・維持する責任者をアサインする；</seg>
       </tuv>
     </tu>
     <tu>
@@ -99,6 +116,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170309T203727Z" creationid="maabou" creationdate="20170309T203727Z">
         <seg>知的財産権関連法令の基礎；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Commercially reasonable budget has been allocated.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T203033Z" creationid="maabou" creationdate="20170312T203033Z">
+        <seg>商業的にみて利にかなった予算が配分されている</seg>
       </tuv>
     </tu>
     <tu>
@@ -145,8 +170,16 @@
       <tuv xml:lang="EN-US">
         <seg>Ensure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries.</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T090253Z" creationid="maabou" creationdate="20170312T090253Z">
-        <seg>FOSSコンプライアンスについて第三者がその組織に問合せについて、合理的手段があることを確かなものとする。</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T201249Z" creationid="maabou" creationdate="20170312T090253Z">
+        <seg>FOSSコンプライアンスに関する問合せについて第三者がその組織にコンタクトできる、合理的な手段があることを確かなものに関して、についてする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Escalation path is available for resolution of FOSS compliance issues.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T210825Z" creationid="maabou" creationdate="20170312T210825Z">
+        <seg>FOSSコンプライアンスに係る諸問題の解決のためにエスカレーションパスが有効となっている</seg>
       </tuv>
     </tu>
     <tu>
@@ -180,6 +213,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170312T084110Z" creationid="maabou" creationdate="20170312T082701Z">
         <seg>FOSS窓口はFOSSコンプライアンスの問合せに対し適切に対応すべく、商業的に理にかなった活動を行ない、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS compliance management activity is sufficiently resourced:</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T202739Z" creationid="maabou" creationdate="20170312T202739Z">
+        <seg>FOSSコンプライアンス管理に十分な活動資源が提供されている：</seg>
       </tuv>
     </tu>
     <tu>
@@ -239,6 +280,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani:あえて「役職」としてアサインの必要性を強調する</note>
+      <tuv xml:lang="EN-US">
+        <seg>Identify Internal FOSS Compliance Role(s).</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T203828Z" creationid="maabou" creationdate="20170312T201333Z">
+        <seg>内部でFOSSコンプライアンスを遂行する役職を明確にすること</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv xml:lang="EN-US">
         <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.0 of the specification.</seg>
       </tuv>
@@ -264,6 +314,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Legal expertise pertaining to FOSS compliance is accessible to the FOSS Compliance role (e.g., could be internal or external); and</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T204446Z" creationid="maabou" creationdate="20170312T203716Z">
+        <seg>FOSSコンプライアンスを担う役職がFOSSコンプライアンスに係る法的な専門知識を（その組織内もしくは組織外で）獲得でき、；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Mandatory FOSS training for all Software Staff exists such that:</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170312T060251Z" creationid="maabou" creationdate="20170309T202334Z">
@@ -284,6 +342,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T093158Z" creationid="maabou" creationdate="20170307T093145Z">
         <seg>ミッション:  フリー/オープンソース・ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア・サプライチェーンの参加者のために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Name of persons, group or function in FOSS Compliance role(s) identified.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T211220Z" creationid="maabou" creationdate="20170312T211220Z">
+        <seg>FOSSコンプライアンスにおける機能名称、グループ名もしくは個人名</seg>
       </tuv>
     </tu>
     <tu>
@@ -395,6 +461,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The FOSS Compliance role and the FOSS Liaison can be the same individual.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T203845Z" creationid="maabou" creationdate="20170312T201503Z">
+        <seg>FOSSコンプライアンスを担う役職はFOSS窓口担当者を兼ねることができる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The FOSS policy and where to find a copy;</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170309T203741Z" creationid="maabou" creationdate="20170309T202734Z">
@@ -487,6 +561,14 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T093357Z" creationid="maabou" creationdate="20170307T093357Z">
         <seg>また本仕様書は、さまざまな組織が自身のポリシーやプロセスが目的にベストフィットするよう仕立て上げられるよう、実用的なレベルでの柔軟性を確保している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Time to perform the role has been allocated; and</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T202945Z" creationid="maabou" creationdate="20170312T202945Z">
+        <seg>役割を遂行する時間が割り当てられており、</seg>
       </tuv>
     </tu>
     <tu>

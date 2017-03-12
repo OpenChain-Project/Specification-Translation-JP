@@ -75,3 +75,6 @@ commercially reasonable	商取引上合理的な,商業的に見て理にかな�
 as appropriate	必要に応じて,適切に
 electronic communication	電子的通信	「電気通信」はelectrical communication。
 with regard to	に関して、について
+resource	資金・設備を提供する	動詞の意味では以下サイトに情報あり。"to provide an organization or department with money or equipment" →http://dictionary.cambridge.org/dictionary/english/resource
+role	役割、役職
+path	経路、パス
