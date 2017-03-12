@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A documented procedure exists that assigns responsibility for receiving FOSS compliance inquiries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T085620Z" creationid="maabou" creationdate="20170312T085528Z">
+        <seg>FOSSコンプライアンスに係る問合せを受けつける責任者をアサインするための文書化された手続きが存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T205714Z" creationid="maabou" creationdate="20170308T205415Z">
@@ -135,6 +143,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T090253Z" creationid="maabou" creationdate="20170312T090253Z">
+        <seg>FOSSコンプライアンスについて第三者がその組織に問合せについて、合理的手段があることを確かなものとする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T061159Z" creationid="maabou" creationdate="20170307T123125Z">
@@ -154,8 +170,8 @@
       <tuv lang="EN-US">
         <seg>FOSS Liaison function is publicly identified (e.g., via an email address and/or the Linux Foundation’s Open Compliance Directory).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170312T084814Z" creationid="maabou" creationdate="20170312T084814Z">
-        <seg>FOSS窓口機能が、公衆に対し明示されていること（例：電子メールアドレス、あるいはLinux Foundationのオープンコンプライアンスディレクトリの情報など）</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T085625Z" creationid="maabou" creationdate="20170312T084814Z">
+        <seg>公衆に対し明示されたFOSS窓口機能の存在（例：電子メールアドレス、あるいはLinux Foundationのオープンコンプライアンスディレクトリの情報など）</seg>
       </tuv>
     </tu>
     <tu>

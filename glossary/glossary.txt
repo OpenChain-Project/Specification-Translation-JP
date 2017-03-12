@@ -74,3 +74,4 @@ responsibility	責任者
 commercially reasonable	商取引上合理的な,商業的に見て理にかなっている
 as appropriate	必要に応じて,適切に
 electronic communication	電子的通信	「電気通信」はelectrical communication。
+with regard to	に関して、について
