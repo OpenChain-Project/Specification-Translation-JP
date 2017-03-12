@@ -48,7 +48,7 @@ third parties	サードパーティ	そのままカタカナ表記
 third parties	第三者	文脈によっては日本語で表記
 third party	サードパーティ	そのままカタカナ表記
 third party	第三者	文脈によっては日本語で表記
-requirements	要件	要件定義など。単に「要件」だと流れが悪いので「満たすべき要件」などと表現
+requirements	要件	要件定義など。単に「要件」だと流れが悪い場合などは「満たすべき要件」などと表現を工夫する。
 know	知っている、理解している
 as a minimum	最低でも	as a minimum
 Verification Artifact(s)	確証として必要なもの	※要議論。証跡とか成果物とかいろいろ出ている
@@ -62,3 +62,8 @@ slide deck	スライド資料
 track	追跡する、確認する	確認するは意訳
 section	節	いまのところ以下で整理しておく→章：Chapter、節：Section、項：Subsection-->参考：https://www.latex-tutorial.com/tutorials/beginners/latex-sections/
 current	現時点で、認められて、普及して、最新の（adj.）
+core set	中核となる一連の情報
+relevant	関連のある、今日的な意味がある
+ｒationale	そうした理由
+rationale	そうした理由
+likely	ふさわしい、適している	以下サイトでは以下のように記載あり："seeming to fulfill requirements or expectations; apparently suitable"　http://www.dictionary.com/browse/likely?s=t

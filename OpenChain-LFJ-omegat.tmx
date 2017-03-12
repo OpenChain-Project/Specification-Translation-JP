@@ -69,11 +69,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani:このabove sectionは1.2節のこと。1.2.3「項」から見たらabove sectionは「本節」？「前節」？「上節」？</note>
       <tuv lang="EN-US">
         <seg>At least 85% of all Software Staff are current, as per definition in above section.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170311T001201Z" creationid="maabou" creationdate="20170311T001201Z">
-        <seg>全ソフトウェアスタッフのうち少なくとも85%が前節の定義によって認定されていること</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T061123Z" creationid="maabou" creationdate="20170311T001201Z">
+        <seg>全ソフトウェアスタッフのうち少なくとも85%が本節上記定義で、現行に即した状態であること</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +113,16 @@
       <tuv lang="EN-US">
         <seg>Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170311T001655Z" creationid="maabou" creationdate="20170309T044720Z">
-        <seg>これにより確実に製造・記録するステップを取ることができ、またソフトウェアスタッフにFOSSポリシーの存在を知らしめることができる。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T060149Z" creationid="maabou" creationdate="20170309T044720Z">
+        <seg>これにより作成・記録するステップを確実なものとし、加えてソフトウェアスタッフへFOSSポリシーの存在を周知することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure the Software Staff have recently attended FOSS training and that a core set of relevant FOSS topics are covered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T062124Z" creationid="maabou" creationdate="20170312T061153Z">
+        <seg>ソフトウェアスタッフが直近でFOSSトレーニングに参加したということと併せ、そのトレーニングが今日的に意味のあるFOSSに係る一連のトピックがカバーされていることを確かなものとする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -201,7 +210,7 @@
       <tuv lang="EN-US">
         <seg>Mandatory FOSS training for all Software Staff exists such that:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170311T003058Z" creationid="maabou" creationdate="20170309T202334Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170312T060251Z" creationid="maabou" creationdate="20170309T202334Z">
         <seg>ソフトウェアスタッフ向けの受講必須のトレーニングが存在していること</seg>
       </tuv>
     </tu>
@@ -346,6 +355,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T063630Z" creationid="maabou" creationdate="20170312T063523Z">
+        <seg>ここで意図しているのは、中核的な基本レベルにおいて一連のトピックがカバーされることであるが、典型的なトレーニングプログラムにおいては、ここで求めるものよりも包括的になることがふさわしいだろう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The latter observation resulted in a lack of trust in the consistency and quality of the compliance artifacts accompanying the software being exchanged.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T092845Z" creationid="maabou" creationdate="20170307T092756Z">
@@ -380,8 +397,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The training, as a minimum, covers the following topics:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170311T003116Z" creationid="maabou" creationdate="20170309T202417Z">
-        <seg>最低でも以下に示すトピックを含める：</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T060329Z" creationid="maabou" creationdate="20170309T202417Z">
+        <seg>トレーニングとして最低でも以下に示すトピックを含んでいる：</seg>
       </tuv>
     </tu>
     <tu>
