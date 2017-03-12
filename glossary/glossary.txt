@@ -67,3 +67,10 @@ relevant	関連のある、今日的な意味がある
 ｒationale	そうした理由
 rationale	そうした理由
 likely	ふさわしい、適している	以下サイトでは以下のように記載あり："seeming to fulfill requirements or expectations; apparently suitable"　http://www.dictionary.com/browse/likely?s=t
+achieving 	 達成する、実現する（attainment) 	辞書サイト引用：(1)something accomplished, especially by superior ability, special effort, great courage, etc.; a great or heroic deed:his remarkable achievements in art.(2)the act of achieving; attainment or accomplishment:the achievement of one's object.http://www.dictionary.com/browse/achievement
+
+assign	指名する、任命する、アサインする
+responsibility	責任者
+commercially reasonable	商取引上合理的な,商業的に見て理にかなっている
+as appropriate	必要に応じて,適切に
+electronic communication	電子的通信	「電気通信」はelectrical communication。

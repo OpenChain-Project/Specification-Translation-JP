@@ -152,22 +152,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>FOSS Liaison function is publicly identified (e.g., via an email address and/or the Linux Foundation’s Open Compliance Directory).</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170312T084814Z" creationid="maabou" creationdate="20170312T084814Z">
-        <seg>FOSS窓口機能が、公衆に対し明示されていること（例：電子メールアドレス、あるいはLinux Foundationのオープンコンプライアンスディレクトリの情報など）</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>FOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170312T084110Z" creationid="maabou" creationdate="20170312T082701Z">
-        <seg>FOSS窓口はFOSSコンプライアンスの問合せに対し適切に対応すべく、商業的に理にかなった活動を行ない、</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>FOSS course materials covering the above topics exists (e.g., slide decks, online course, or other training materials).</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170310T235839Z" creationid="maabou" creationdate="20170310T235839Z">
@@ -202,8 +186,8 @@
       <tuv lang="EN-US">
         <seg>G2: Assign Responsibility for Achieving Compliance</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170312T082710Z" creationid="maabou" creationdate="20170312T080325Z">
-        <seg>G2: コンプライアンス実現のための責任者のアサインしている</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T080636Z" creationid="maabou" creationdate="20170312T080325Z">
+        <seg>G2: コンプライアンス実現のための責任者のアサイン</seg>
       </tuv>
     </tu>
     <tu>
@@ -293,14 +277,6 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170310T233552Z" creationid="maabou" creationdate="20170310T233552Z">
         <seg>提供されるソフトウェアのFOSSコンポーネントを特定し、記録し、もしくは追跡するためのプロセス</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Publicly identify means of contacting the FOSS Liaison by way of electronic communication.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170312T084540Z" creationid="maabou" creationdate="20170312T084055Z">
-        <seg>電子的通信を通じFOSS窓口にコンタクトする手段を公衆に対し明らかにしなければならない</seg>
       </tuv>
     </tu>
     <tu>

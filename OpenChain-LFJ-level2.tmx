@@ -69,6 +69,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T081249Z" creationid="maabou" creationdate="20170312T081249Z">
+        <seg>FOSSに係る外部からの問合せ受け付けに責任をもつ要員をアサインする；</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:このabove sectionは1.2節のこと。1.2.3「項」から見たらabove sectionは「本節」？「前節」？「上節」？</note>
       <tuv xml:lang="EN-US">
         <seg>At least 85% of all Software Staff are current, as per definition in above section.</seg>
@@ -144,6 +152,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>FOSS Liaison function is publicly identified (e.g., via an email address and/or the Linux Foundation’s Open Compliance Directory).</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T084814Z" creationid="maabou" creationdate="20170312T084814Z">
+        <seg>FOSS窓口機能が、公衆に対し明示されていること（例：電子メールアドレス、あるいはLinux Foundationのオープンコンプライアンスディレクトリの情報など）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>FOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T084110Z" creationid="maabou" creationdate="20170312T082701Z">
+        <seg>FOSS窓口はFOSSコンプライアンスの問合せに対し適切に対応すべく、商業的に理にかなった活動を行ない、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>FOSS course materials covering the above topics exists (e.g., slide decks, online course, or other training materials).</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170310T235839Z" creationid="maabou" creationdate="20170310T235839Z">
@@ -176,10 +200,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>G2: Assign Responsibility for Achieving Compliance</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T082710Z" creationid="maabou" creationdate="20170312T080325Z">
+        <seg>G2: コンプライアンス実現のための責任者のアサインしている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T130052Z" creationid="maabou" creationdate="20170307T125249Z">
         <seg>確認されたライセンス－適切な方法に則り確認ができたFOSSライセンスのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Identify FOSS Liaison Function ("FOSS Liaison").</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T080925Z" creationid="maabou" creationdate="20170312T080404Z">
+        <seg>FOSS窓口機能を明確化すること（FOSS窓口）</seg>
       </tuv>
     </tu>
     <tu>
@@ -253,6 +293,14 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170310T233552Z" creationid="maabou" creationdate="20170310T233552Z">
         <seg>提供されるソフトウェアのFOSSコンポーネントを特定し、記録し、もしくは追跡するためのプロセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Publicly identify means of contacting the FOSS Liaison by way of electronic communication.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170312T084540Z" creationid="maabou" creationdate="20170312T084055Z">
+        <seg>電子的通信を通じFOSS窓口にコンタクトする手段を公衆に対し明らかにしなければならない</seg>
       </tuv>
     </tu>
     <tu>
