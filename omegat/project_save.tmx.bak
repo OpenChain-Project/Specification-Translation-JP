@@ -167,6 +167,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani:certainは「決められた」のニュアンスで
+tani:effectivelyは、「効果的」だと弱いので、そのアサインの結果有効に機能するといったニュアンスを含めた</note>
+      <tuv lang="EN-US">
+        <seg>Ensure certain FOSS responsibilities have been effectively assigned.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170313T210130Z" creationid="maabou" creationdate="20170313T210130Z">
+        <seg>決められたFOSS責任者が有効性をもってアサインされたことを確かなものとする</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
       </tuv>

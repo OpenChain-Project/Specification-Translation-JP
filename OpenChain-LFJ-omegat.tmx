@@ -291,6 +291,14 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G3: Review and Approve FOSS Content</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170313T211545Z" creationid="maabou" creationdate="20170313T211545Z">
+        <seg>G3: FOSSコンテンツのレビューおよび承認を実施している</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T130052Z" creationid="maabou" creationdate="20170307T125249Z">

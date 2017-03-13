@@ -83,3 +83,4 @@ expertise	専門知識、専門家の助言・見解
 available 	有効な、得られる、獲得できる、役に立つ、使うことができる
 certain	決定された、確かな、ある
 effectively	効果的に
+content	コンテンツ、目次、内容	内容、something that is contained(http://www.dictionary.com/browse/contents?s=t)
