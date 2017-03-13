@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A documented procedure exists that assigns responsibility for receiving FOSS compliance inquiries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T085620Z" creationid="maabou" creationdate="20170312T085528Z">
+        <seg>FOSSコンプライアンスに係る問合せを受けつける責任者をアサインするための文書化された手続きが存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T205714Z" creationid="maabou" creationdate="20170308T205415Z">
@@ -38,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A test may be used to allow Software Staff to satisfy the training requirement.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170310T235455Z" creationid="maabou" creationdate="20170310T234703Z">
+        <seg>ソフトウェアスタッフが本トレーニング要件を満足させるために試験を実施してもよい</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution where, as a minimum, it must be internally communicated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170308T205505Z" creationid="maabou" creationdate="20170308T082128Z">
-        <seg>供給されるソフトウェアの配布についてFOSSライセンスコンプライアンスを統制するFOSSポリシーが書面として存在し、それが最低でも組織内で伝わっていなければならない</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170311T002335Z" creationid="maabou" creationdate="20170308T082128Z">
+        <seg>供給されるソフトウェアの配布についてFOSSライセンスコンプライアンスを統制するFOSSポリシーが書面として存在し、それが最低でも組織内で伝えられていなければならない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although no requirements are provided here on what should be included in the policy, other requirements in other sections may.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170311T001635Z" creationid="maabou" creationdate="20170311T001635Z">
+        <seg>ポリシーとして記載されるべき内容についての要件についてはここでは扱わず、他節にて記載する。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +74,56 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T092832Z" creationid="maabou" creationdate="20170307T092832Z">
         <seg>結果として、サプライチェーンのそれぞれの段階において、上流側組織で既に実施したコンプライアンス業務を下流組織で再び実施されていた。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign individual(s) responsible for managing internal FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T201441Z" creationid="maabou" creationdate="20170312T201347Z">
+        <seg>内部のFOSSコンプライアンス管理に対し責任者をアサインする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign individual(s) responsible for receiving external FOSS inquiries;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T081249Z" creationid="maabou" creationdate="20170312T081249Z">
+        <seg>FOSSに係る外部からの問合せ受け付けに責任をもつ要員をアサインする；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここだけresponsibilitiesと複数なのは意味があるか？「責任者」ではない？</note>
+      <tuv lang="EN-US">
+        <seg>Assign responsibilities to develop and maintain FOSS compliance policy and processes;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T203455Z" creationid="maabou" creationdate="20170312T203455Z">
+        <seg>FOSSコンプライアンスポリシーとプロセスを開発・維持する責任者をアサインする；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:このabove sectionは1.2節のこと。1.2.3「項」から見たらabove sectionは「本節」？「前節」？「上節」？</note>
+      <tuv lang="EN-US">
+        <seg>At least 85% of all Software Staff are current, as per definition in above section.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T061123Z" creationid="maabou" creationdate="20170311T001201Z">
+        <seg>全ソフトウェアスタッフのうち少なくとも85%が本節上記定義で、現行に即した状態であること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basics of IP law pertaining to FOSS and FOSS licenses;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T203727Z" creationid="maabou" creationdate="20170309T203727Z">
+        <seg>知的財産権関連法令の基礎；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Commercially reasonable budget has been allocated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T203033Z" creationid="maabou" creationdate="20170312T203033Z">
+        <seg>商業的にみて利にかなった予算が配分されている</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +152,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ensure steps were taken to create, record and make Software Staff aware of the existence of a FOSS policy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T060149Z" creationid="maabou" creationdate="20170309T044720Z">
+        <seg>これにより作成・記録するステップを確実なものとし、加えてソフトウェアスタッフへFOSSポリシーの存在を周知することができる。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure the Software Staff have recently attended FOSS training and that a core set of relevant FOSS topics are covered.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T062124Z" creationid="maabou" creationdate="20170312T061153Z">
+        <seg>ソフトウェアスタッフが直近でFOSSトレーニングに参加したということと併せ、そのトレーニングが今日的に意味のあるFOSSに係る一連のトピックがカバーされていることを確かなものとする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure there is a reasonable way for third parties to contact the organization with regard to FOSS compliance inquiries.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T201249Z" creationid="maabou" creationdate="20170312T090253Z">
+        <seg>FOSSコンプライアンスに関する問合せについて第三者がその組織にコンタクトできる、合理的な手段があることを確かなものに関して、についてする。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escalation path is available for resolution of FOSS compliance issues.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T210825Z" creationid="maabou" creationdate="20170312T210825Z">
+        <seg>FOSSコンプライアンスに係る諸問題の解決のためにエスカレーションパスが有効となっている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T061159Z" creationid="maabou" creationdate="20170307T123125Z">
@@ -95,6 +201,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FOSS Liaison function is publicly identified (e.g., via an email address and/or the Linux Foundation’s Open Compliance Directory).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T085625Z" creationid="maabou" creationdate="20170312T084814Z">
+        <seg>公衆に対し明示されたFOSS窓口機能の存在（例：電子メールアドレス、あるいはLinux Foundationのオープンコンプライアンスディレクトリの情報など）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS Liaison must make commercially reasonable efforts to respond to FOSS compliance inquiries as appropriate; and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T084110Z" creationid="maabou" creationdate="20170312T082701Z">
+        <seg>FOSS窓口はFOSSコンプライアンスの問合せに対し適切に対応すべく、商業的に理にかなった活動を行ない、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS compliance management activity is sufficiently resourced:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T202739Z" creationid="maabou" creationdate="20170312T202739Z">
+        <seg>FOSSコンプライアンス管理に十分な活動資源が提供されている：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS course materials covering the above topics exists (e.g., slide decks, online course, or other training materials).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170310T235839Z" creationid="maabou" creationdate="20170310T235839Z">
+        <seg>上記のトピックを含んだFOSS教材（例：スライド資料、オンラインコースもしくはその他トレーニング用資料）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS licensing concepts (including the concepts of permissive and copyleft licenses);</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T204201Z" creationid="maabou" creationdate="20170309T203846Z">
+        <seg>FOSSライセンス供与の概念（コピーレフトおよびパーミッシブなライセンスの概念を含む）;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS project licensing models;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T204238Z" creationid="maabou" creationdate="20170309T204238Z">
+        <seg>FOSSプロジェクトのライセンス供与のモデル；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>G1: Know Your FOSS Responsibilities</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T082150Z" creationid="maabou" creationdate="20170308T082001Z">
@@ -103,10 +257,35 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G2: Assign Responsibility for Achieving Compliance</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T082710Z" creationid="maabou" creationdate="20170312T080325Z">
+        <seg>G2: コンプライアンス実現のための責任者のアサインしている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T130052Z" creationid="maabou" creationdate="20170307T125249Z">
         <seg>確認されたライセンス－適切な方法に則り確認ができたFOSSライセンスのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identify FOSS Liaison Function ("FOSS Liaison").</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T080925Z" creationid="maabou" creationdate="20170312T080404Z">
+        <seg>FOSS窓口機能を明確化すること（FOSS窓口）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:あえて「役職」としてアサインの必要性を強調する</note>
+      <tuv lang="EN-US">
+        <seg>Identify Internal FOSS Compliance Role(s).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T203828Z" creationid="maabou" creationdate="20170312T201333Z">
+        <seg>内部でFOSSコンプライアンスを遂行する役職を明確にすること</seg>
       </tuv>
     </tu>
     <tu>
@@ -135,10 +314,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Legal expertise pertaining to FOSS compliance is accessible to the FOSS Compliance role (e.g., could be internal or external); and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T204446Z" creationid="maabou" creationdate="20170312T203716Z">
+        <seg>FOSSコンプライアンスを担う役職がFOSSコンプライアンスに係る法的な専門知識を（その組織内もしくは組織外で）獲得でき、；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Mandatory FOSS training for all Software Staff exists such that:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T060251Z" creationid="maabou" creationdate="20170309T202334Z">
+        <seg>ソフトウェアスタッフ向けの受講必須のトレーニングが存在していること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Method of tracking the completion of the course for all Software Staff.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170311T000106Z" creationid="maabou" creationdate="20170311T000106Z">
+        <seg>ソフトウェアスタッフ全員がコースを修了していることを確認する方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the  requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093158Z" creationid="maabou" creationdate="20170307T093145Z">
         <seg>ミッション:  フリー/オープンソース・ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア・サプライチェーンの参加者のために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of persons, group or function in FOSS Compliance role(s) identified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T211220Z" creationid="maabou" creationdate="20170312T211220Z">
+        <seg>FOSSコンプライアンスにおける機能名称、グループ名もしくは個人名</seg>
       </tuv>
     </tu>
     <tu>
@@ -155,6 +366,31 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T130537Z" creationid="maabou" creationdate="20170307T130208Z">
         <seg>OpenChain準拠 －本仕様書のすべての要件を満たすプログラムのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani: and/orの表現が難しい</note>
+      <tuv lang="EN-US">
+        <seg>Process for identifying, recording and/or tracking of FOSS components contained in Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170310T233552Z" creationid="maabou" creationdate="20170310T233552Z">
+        <seg>提供されるソフトウェアのFOSSコンポーネントを特定し、記録し、もしくは追跡するためのプロセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Publicly identify means of contacting the FOSS Liaison by way of electronic communication.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T084540Z" creationid="maabou" creationdate="20170312T084055Z">
+        <seg>電子的通信を通じFOSS窓口にコンタクトする手段を公衆に対し明らかにしなければならない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rationale:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T044233Z" creationid="maabou" creationdate="20170309T044233Z">
+        <seg>論理的根拠:</seg>
       </tuv>
     </tu>
     <tu>
@@ -199,10 +435,44 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Software Staff must have completed FOSS training within the last 24 months (to be considered current).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170311T005258Z" creationid="maabou" creationdate="20170310T234521Z">
+        <seg>ソフトウェアスタッフはFOSSトレーニングを（現状に即すとみなされるよう）少なくとも直近24ヶ月以内に修了していなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:この文面の区切りに注意。
+tani:Specificallyとin generalで対比している？</note>
+      <tuv lang="EN-US">
+        <seg>Software Staff roles and responsibilities pertaining to FOSS compliance specifically and the FOSS policy in general; and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170310T233106Z" creationid="maabou" creationdate="20170310T015630Z">
+        <seg>ソフトウェアスタッフの役割、全体としてのFOSSポリシーや具体的なFOSSコンプライアンスに付随する責任および；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Supplied Software – software that an organization delivers to third parties (e.g., other organizations or individuals).</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T113730Z" creationid="maabou" creationdate="20170308T062145Z">
         <seg>供給されるソフトウェア －組織が第三者に対し提供するソフトウェアのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The FOSS Compliance role and the FOSS Liaison can be the same individual.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T203845Z" creationid="maabou" creationdate="20170312T201503Z">
+        <seg>FOSSコンプライアンスを担う役職はFOSS窓口担当者を兼ねることができる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The FOSS policy and where to find a copy;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170309T203741Z" creationid="maabou" creationdate="20170309T202734Z">
+        <seg>FOSSポリシーおよびその入手先；</seg>
       </tuv>
     </tu>
     <tu>
@@ -219,6 +489,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093105Z" creationid="maabou" creationdate="20170307T093105Z">
         <seg>OpenChain イニシアチブは以下のビジョンとミッションを有する：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T063630Z" creationid="maabou" creationdate="20170312T063523Z">
+        <seg>ここで意図しているのは、中核的な基本レベルにおいて一連のトピックがカバーされることであるが、典型的なトレーニングプログラムにおいては、ここで求めるものよりも包括的になることがふさわしいだろう。</seg>
       </tuv>
     </tu>
     <tu>
@@ -255,6 +533,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The training, as a minimum, covers the following topics:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T060329Z" creationid="maabou" creationdate="20170309T202417Z">
+        <seg>トレーニングとして最低でも以下に示すトピックを含んでいる：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They include (but are not limited to) the following: copyright notices, copies of licenses, modification notifications, attribution notices, source code, written offers and so forth.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T060508Z" creationid="maabou" creationdate="20170307T100106Z">
@@ -275,6 +561,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093357Z" creationid="maabou" creationdate="20170307T093357Z">
         <seg>また本仕様書は、さまざまな組織が自身のポリシーやプロセスが目的にベストフィットするよう仕立て上げられるよう、実用的なレベルでの柔軟性を確保している。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time to perform the role has been allocated; and</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T202945Z" creationid="maabou" creationdate="20170312T202945Z">
+        <seg>役割を遂行する時間が割り当てられており、</seg>
       </tuv>
     </tu>
     <tu>

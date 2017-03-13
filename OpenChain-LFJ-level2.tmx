@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A documented procedure exists that assigns responsibilities for FOSS compliance.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170313T204845Z" creationid="maabou" creationdate="20170313T204845Z">
+        <seg>FOSSコンプライアンスの責任者をアサインする、文書化された手続きの存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A documented procedure exists that assigns responsibility for receiving FOSS compliance inquiries.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170312T085620Z" creationid="maabou" creationdate="20170312T085528Z">
         <seg>FOSSコンプライアンスに係る問合せを受けつける責任者をアサインするための文書化された手続きが存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A documented procedure exists that identifies an escalation path for issue resolution.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170313T204950Z" creationid="maabou" creationdate="20170313T204950Z">
+        <seg>問題の解決のためのエスカレーションパスを明確にした、文書化された手続きの存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -148,6 +164,16 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170308T060500Z" creationid="maabou" creationdate="20170307T095021Z">
         <seg>頒布・配布コンプライアンス生成物 －供給されたソフトウェアとともに特定されたライセンスが提供されることが求められる生成物一式であり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:certainは「決められた」のニュアンスで
+tani:effectivelyは、「効果的」だと弱いので、そのアサインの結果有効に機能するといったニュアンスを含めた</note>
+      <tuv xml:lang="EN-US">
+        <seg>Ensure certain FOSS responsibilities have been effectively assigned.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170313T210130Z" creationid="maabou" creationdate="20170313T210130Z">
+        <seg>決められたFOSS責任者が有効性をもってアサインされたことを確かなものとする</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +312,16 @@
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170312T203828Z" creationid="maabou" creationdate="20170312T201333Z">
         <seg>内部でFOSSコンプライアンスを遂行する役職を明確にすること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここのいくつあの箇条書き、原文の構造に統一感がないのが気になる
+tani:2.2.2項については具体的イメージがほしい</note>
+      <tuv xml:lang="EN-US">
+        <seg>Identify source of legal expertise available to FOSS Compliance role(s).</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170313T204748Z" creationid="maabou" creationdate="20170313T204141Z">
+        <seg>FOSSコンプライアンスを担う役職にとって使用可能で、その源泉が特定できる法的専門知識</seg>
       </tuv>
     </tu>
     <tu>

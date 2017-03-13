@@ -78,3 +78,8 @@ with regard to	に関して、について
 resource	資金・設備を提供する	動詞の意味では以下サイトに情報あり。"to provide an organization or department with money or equipment" →http://dictionary.cambridge.org/dictionary/english/resource
 role	役割、役職
 path	経路、パス
+source	情報源、ソースコード
+expertise	専門知識、専門家の助言・見解
+available 	有効な、得られる、獲得できる、役に立つ、使うことができる
+certain	決定された、確かな、ある
+effectively	効果的に

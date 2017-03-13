@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A documented procedure exists that assigns responsibilities for FOSS compliance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170313T204845Z" creationid="maabou" creationdate="20170313T204845Z">
+        <seg>FOSSコンプライアンスの責任者をアサインする、文書化された手続きの存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A documented procedure exists that assigns responsibility for receiving FOSS compliance inquiries.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170312T085620Z" creationid="maabou" creationdate="20170312T085528Z">
         <seg>FOSSコンプライアンスに係る問合せを受けつける責任者をアサインするための文書化された手続きが存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented procedure exists that identifies an escalation path for issue resolution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170313T204950Z" creationid="maabou" creationdate="20170313T204950Z">
+        <seg>問題の解決のためのエスカレーションパスを明確にした、文書化された手続きの存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -289,6 +305,16 @@
       </tuv>
     </tu>
     <tu>
+      <note>tani:ここのいくつあの箇条書き、原文の構造に統一感がないのが気になる
+tani:2.2.2項については具体的イメージがほしい</note>
+      <tuv lang="EN-US">
+        <seg>Identify source of legal expertise available to FOSS Compliance role(s).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170313T204748Z" creationid="maabou" creationdate="20170313T204141Z">
+        <seg>FOSSコンプライアンスを担う役職にとって使用可能で、その源泉が特定できる法的専門知識</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.0 of the specification.</seg>
       </tuv>
@@ -342,6 +368,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093158Z" creationid="maabou" creationdate="20170307T093145Z">
         <seg>ミッション:  フリー/オープンソース・ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア・サプライチェーンの参加者のために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていく</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Name of persons, group or function in FOSS Compliance role(s) identified.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170312T211220Z" creationid="maabou" creationdate="20170312T211220Z">
+        <seg>FOSSコンプライアンスにおける機能名称、グループ名もしくは個人名</seg>
       </tuv>
     </tu>
     <tu>
