@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A documented procedure exists used to identify, track, and archive a list of FOSS components and their Identified Licenses from which the Supplied Software is comprised.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T013210Z" creationid="maabou" creationdate="20170314T012623Z">
+        <seg>供給されたソフトウェアに含まれるすべてのFOSSコンポーネントおよびそれらの確認済みライセンスを特定し、追跡し、リストして保管するために使われる文書化された手続きの存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A process exists for identifying, tracking and archiving a list of all FOSS components (and their respective Identified Licenses) from which Supplied Software is comprised.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T013204Z" creationid="maabou" creationdate="20170314T011211Z">
+        <seg>供給されたソフトウェアに含まれる全てのFOSSコンポーネント（およびそれらそれぞれの確認済みライセンス）を特定し、追跡し、リストとして保管するプロセスが存在すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T092921Z" creationid="maabou" creationdate="20170307T092921Z">
@@ -138,8 +154,8 @@
       <tuv lang="EN-US">
         <seg>Commercially reasonable budget has been allocated.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170312T203033Z" creationid="maabou" creationdate="20170312T203033Z">
-        <seg>商業的にみて利にかなった予算が配分されている</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T011355Z" creationid="maabou" creationdate="20170312T203033Z">
+        <seg>商業的に理にかなった形で予算が配分されている</seg>
       </tuv>
     </tu>
     <tu>
@@ -172,8 +188,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>Ensure certain FOSS responsibilities have been effectively assigned.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170313T210130Z" creationid="maabou" creationdate="20170313T210130Z">
-        <seg>決められたFOSS責任者が有効性をもってアサインされたことを確かなものとする</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T010935Z" creationid="maabou" creationdate="20170313T210130Z">
+        <seg>ここで定められたFOSS責任者が有効性をもってアサインされたことを確かなものとする</seg>
       </tuv>
     </tu>
     <tu>
@@ -293,16 +309,16 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>G3: Review and Approve FOSS Content</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170313T211545Z" creationid="maabou" creationdate="20170313T211545Z">
-        <seg>G3: FOSSコンテンツのレビューおよび承認を実施している</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T011000Z" creationid="maabou" creationdate="20170313T211545Z">
+        <seg>G3: FOSSコンテンツをレビューし承認する</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170307T130052Z" creationid="maabou" creationdate="20170307T125249Z">
-        <seg>確認されたライセンス－適切な方法に則り確認ができたFOSSライセンスのこと</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T012654Z" creationid="maabou" creationdate="20170307T125249Z">
+        <seg>確認済みライセンス－適切な方法に則り確認ができたFOSSライセンスのこと</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,6 +568,15 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
     </tu>
     <tu>
+      <note>tani:ここの役はまだ曖昧なので要レビュー</note>
+      <tuv lang="EN-US">
+        <seg>The recorded inventory also serves as evidence that the process was followed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T015552Z" creationid="maabou" creationdate="20170314T015552Z">
+        <seg>また、記録としての本目録はそのプロセスが従う確証として機能することになる</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN-US">
         <seg>The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain Conforming.</seg>
       </tuv>
@@ -609,10 +634,26 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This inventory must exist to support the systematic review of each component’s license terms to understand their respective distribution obligations and restrictions applicable to the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T014913Z" creationid="maabou" creationdate="20170314T013552Z">
+        <seg>各コンポーネントの頒布に係る義務や制約を理解する上で各ライセンス条項のシステマチックなレビューを支援するため、本目録は存在していなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Time to perform the role has been allocated; and</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170312T202945Z" creationid="maabou" creationdate="20170312T202945Z">
         <seg>役割を遂行する時間が割り当てられており、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure a process exists for identifying and listing all FOSS components used to construct the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170314T013317Z" creationid="maabou" creationdate="20170314T013120Z">
+        <seg>供給されたソフトウェアを構成するために用いられる全てのFOSSコンポーネントを特定し、リスト化するためのプロセスが存在することを確かなものとする。</seg>
       </tuv>
     </tu>
     <tu>

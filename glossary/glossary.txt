@@ -5,11 +5,8 @@ specification	仕様書	仕様の意味でも使う
 conformance specification	適合仕様	意味：適合性を確認するための仕様
 FOSS	フリー/オープンソース・ソフトウェア	Free/Open Source Software
 Version 	版	【例】Version X.X = 第X.X版
-Contents	目次
-Introduction	序文
-Introduction	はしがき
-Introduction	はじめに
-introduction	序論	言い回しはいろいろあるので文書特性に応じて使い分けること
+contents	目次
+introduction	序文、はしがき、初めに、序論	言い回しはいろいろあるので文書特性に応じて使い分けること
 initiative	イニシアチブ	基本的に日本語に変えずに用いたほうがよさそう
 practitioner	実践する人
 initiative	取組み
@@ -64,11 +61,10 @@ section	節	いまのところ以下で整理しておく→章：Chapter、節�
 current	現時点で、認められて、普及して、最新の（adj.）
 core set	中核となる一連の情報
 relevant	関連のある、今日的な意味がある
-ｒationale	そうした理由
+rationale	そうした理由
 rationale	そうした理由
 likely	ふさわしい、適している	以下サイトでは以下のように記載あり："seeming to fulfill requirements or expectations; apparently suitable"　http://www.dictionary.com/browse/likely?s=t
 achieving 	 達成する、実現する（attainment) 	辞書サイト引用：(1)something accomplished, especially by superior ability, special effort, great courage, etc.; a great or heroic deed:his remarkable achievements in art.(2)the act of achieving; attainment or accomplishment:the achievement of one's object.http://www.dictionary.com/browse/achievement
-
 assign	指名する、任命する、アサインする
 responsibility	責任者
 commercially reasonable	商取引上合理的な,商業的に見て理にかなっている
@@ -84,3 +80,6 @@ available 	有効な、得られる、獲得できる、役に立つ、使うこ
 certain	決定された、確かな、ある
 effectively	効果的に
 content	コンテンツ、目次、内容	内容、something that is contained(http://www.dictionary.com/browse/contents?s=t)
+identify	明確化する、特定する、識別する
+inventory	目録、一覧表
+systematic	システマチックな、体系立てられた、手順通りの
