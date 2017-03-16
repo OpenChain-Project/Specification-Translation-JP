@@ -89,3 +89,6 @@ cause	～させる(to do)
 robust 	堅牢な、長持ちする	たんなる強さではなくしなやかさのある強さというニュアンスを表現したい
 business practices	ビジネスの実践、商習慣
 deliver	引き渡す、届ける	to give into another's possession
+Identified Licenses	確認済みライセンス
+prominent notice	重要なお知らせ
+instruction	手順（意訳）

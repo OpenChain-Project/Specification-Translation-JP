@@ -331,6 +331,14 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G4: Deliver FOSS Content Documentation and Artifacts</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T210928Z" creationid="maabou" creationdate="20170316T205629Z">
+        <seg>G4: FOSSドキュメントや生成物をデリバリする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170314T012654Z" creationid="maabou" creationdate="20170307T125249Z">
@@ -442,6 +450,14 @@ tani:2.2.2項については具体的イメージがほしい</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T130537Z" creationid="maabou" creationdate="20170307T130208Z">
         <seg>OpenChain準拠 －本仕様書のすべての要件を満たすプログラムのこと</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prepare the following Distributed Compliance Artifacts to accompany the Supplied Software as required by the corresponding Identified Licenses which might include (but is not limited to) the required:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T211703Z" creationid="maabou" creationdate="20170316T211703Z">
+        <seg>確認されたライセンスに応じて要求される、提供ソフトウェアに伴う以下の配布されるコンプライアンス生成物が用意されていること：</seg>
       </tuv>
     </tu>
     <tu>
@@ -739,6 +755,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>attribution notices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T212059Z" creationid="maabou" creationdate="20170316T212059Z">
+        <seg>帰属表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>contains FOSS or other software under an incompatible license interacting with other</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170316T045415Z" creationid="maabou" creationdate="20170316T045415Z">
@@ -767,6 +791,46 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170316T045307Z" creationid="maabou" creationdate="20170316T045307Z">
         <seg>修正されたFOSSを含んでいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>copies of Identified Licenses</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T211943Z" creationid="maabou" creationdate="20170316T211943Z">
+        <seg>確認されるライセンスの写し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>copyright notices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T211756Z" creationid="maabou" creationdate="20170316T211756Z">
+        <seg>著作権表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>modification notifications</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T212052Z" creationid="maabou" creationdate="20170316T212052Z">
+        <seg>改修の通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>prominent notices</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T212324Z" creationid="maabou" creationdate="20170316T212324Z">
+        <seg>重要な通知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>source code</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T212334Z" creationid="maabou" creationdate="20170316T212334Z">
+        <seg>ソースコード</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
