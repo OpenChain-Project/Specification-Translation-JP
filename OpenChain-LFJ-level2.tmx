@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A process has been implemented that is capable of addressing the typical FOSS use cases encountered by Software Staff for Supplied Software.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170316T203317Z" creationid="maabou" creationdate="20170316T203317Z">
+        <seg>供給されたソフトウェアについてソフトウェアスタッフが直面する典型的なFOSSのユースケースに取り組むために整備されたプロセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170307T092921Z" creationid="maabou" creationdate="20170307T092921Z">
@@ -315,6 +323,14 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>G4: Deliver FOSS Content Documentation and Artifacts</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170316T205629Z" creationid="maabou" creationdate="20170316T205629Z">
+        <seg>G4: FOSSドキュメント類や生成物をデリバリする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170314T012654Z" creationid="maabou" creationdate="20170307T125249Z">
@@ -539,8 +555,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv xml:lang="EN-US">
         <seg>The FOSS program must be capable of handling typical FOSS use cases encountered by Software Staff for Supplied Software, which may include the following use cases - when parts of the Supplied Software (note that the below list is neither exhaustive, nor may all of the below use cases apply depending on the organization):</seg>
       </tuv>
-      <tuv xml:lang="JA" changeid="maabou" changedate="20170316T045006Z" creationid="maabou" creationdate="20170316T045006Z">
-        <seg>FOSSプログラムは供給されたソフトウェアについてソフトウェアスタッフによって発見された典型的なFOSSユースケースに対処できなければならない。以下のようなユースケースが含まれることがある－供給ソフトウェアのパーツが：（以下のリストは網羅的でなく、組織によっては下のユースケースが当てはまらないこともありうる点は注意）</seg>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170316T203353Z" creationid="maabou" creationdate="20170316T045006Z">
+        <seg>FOSSプログラムは供給されたソフトウェアについて、ソフトウェアスタッフが直面する典型的なFOSSユースケースに対処できなければならない。以下のようなユースケースが含まれることがある－供給ソフトウェアのパーツが：（以下のリストは網羅的でなく、組織によっては下のユースケースが当てはまらないこともありうる点は注意）</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,6 +670,15 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170312T202945Z" creationid="maabou" creationdate="20170312T202945Z">
         <seg>役割を遂行する時間が割り当てられており、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:robustを堅牢とするのには違和感あり。しなやかさをもった強さ、みたいな言葉がほしい</note>
+      <tuv xml:lang="EN-US">
+        <seg>To cause the FOSS program to be sufficiently robust to address that organization’s typical use cases as a result of that organization’s business practices.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170316T204911Z" creationid="maabou" creationdate="20170316T204911Z">
+        <seg>FOSSプログラムを、組織のビジネスを実践する上で生じる典型的なユースケースに取り組むことに耐えうるものにする</seg>
       </tuv>
     </tu>
     <tu>

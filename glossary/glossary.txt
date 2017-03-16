@@ -5,7 +5,6 @@ specification	仕様書	仕様の意味でも使う
 conformance specification	適合仕様	意味：適合性を確認するための仕様
 FOSS	フリー/オープンソース・ソフトウェア	Free/Open Source Software
 Version 	版	【例】Version X.X = 第X.X版
-contents	目次
 introduction	序文、はしがき、初めに、序論	言い回しはいろいろあるので文書特性に応じて使い分けること
 initiative	イニシアチブ	基本的に日本語に変えずに用いたほうがよさそう
 practitioner	実践する人
@@ -85,3 +84,8 @@ inventory	目録、一覧表
 systematic	システマチックな、体系立てられた、手順通りの
 interact	連動する、相互作用する、影響し合う
 attribution	帰属	"著作権法における帰属（英: Attribution）とは、ある著作物（works）を利用（use）する場合、その著作物の著作者への謝辞（acknowledge）やクレジットの掲載を要求することを指す用語である" https://ja.wikipedia.org/wiki/%E5%B8%B0%E5%B1%9E_(%E8%91%97%E4%BD%9C%E6%A8%A9) 
+encounter	直面する
+cause	～させる(to do)
+robust 	堅牢な、長持ちする	たんなる強さではなくしなやかさのある強さというニュアンスを表現したい
+business practices	ビジネスの実践、商習慣
+deliver	引き渡す、届ける	to give into another's possession
