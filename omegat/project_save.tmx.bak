@@ -537,6 +537,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The FOSS program must be capable of handling typical FOSS use cases encountered by Software Staff for Supplied Software, which may include the following use cases - when parts of the Supplied Software (note that the below list is neither exhaustive, nor may all of the below use cases apply depending on the organization):</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T045006Z" creationid="maabou" creationdate="20170316T045006Z">
+        <seg>FOSSプログラムは供給されたソフトウェアについてソフトウェアスタッフによって発見された典型的なFOSSユースケースに対処できなければならない。以下のようなユースケースが含まれることがある－供給ソフトウェアのパーツが：（以下のリストは網羅的でなく、組織によっては下のユースケースが当てはまらないこともありうる点は注意）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T092358Z" creationid="maabou" creationdate="20170307T092358Z">
@@ -565,6 +573,15 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T092845Z" creationid="maabou" creationdate="20170307T092756Z">
         <seg>後者では、ソフトウェアのやり取りに付随する、コンプライアンス関連生成物の一貫性や品質について信頼を喪失させる事態を引き起こし、.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:ここの役はまだ曖昧なので要レビュー</note>
+      <tuv lang="EN-US">
+        <seg>The recorded inventory also serves as evidence that the process was followed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T043612Z" creationid="maabou" creationdate="20170314T015552Z">
+        <seg>記録としての本目録は、そのプロセスにもどいている証拠として機能することになる</seg>
       </tuv>
     </tu>
     <tu>
@@ -627,8 +644,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>This inventory must exist to support the systematic review of each component’s license terms to understand their respective distribution obligations and restrictions applicable to the Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170314T014913Z" creationid="maabou" creationdate="20170314T013552Z">
-        <seg>各コンポーネントの頒布に係る義務や制約を理解する上で各ライセンス条項のシステマチックなレビューを支援するため、本目録は存在していなければならない。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T043317Z" creationid="maabou" creationdate="20170314T013552Z">
+        <seg>個々のコンポーネントの頒布に関する義務や制約を理解するべく、ライセンス条項のシステマチックなレビューを支援するよう、本目録は存在していなければならない。</seg>
       </tuv>
     </tu>
     <tu>
@@ -669,6 +686,54 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093122Z" creationid="maabou" creationdate="20170307T093122Z">
         <seg>ビジョン： フリー/オープンソース・ソフトウェア(FOSS)が、信頼でき一貫性のあるコンプライアンス情報とともに提供されるソフトウェア・サプライチェーンを実現すること</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>are distributed in binary form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T045124Z" creationid="maabou" creationdate="20170316T045058Z">
+        <seg>バイナリ形態で頒布されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>are distributed in source form</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T045121Z" creationid="maabou" creationdate="20170316T045121Z">
+        <seg>ソースコード形態で頒布されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>are integrated with other FOSS such that it may trigger copyleft obligations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T045247Z" creationid="maabou" creationdate="20170316T045247Z">
+        <seg>コピーレフトの義務を生じうる他のFOSSと統合されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains FOSS or other software under an incompatible license interacting with other</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T045415Z" creationid="maabou" creationdate="20170316T045415Z">
+        <seg>FOSSもしくは互換性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains FOSS or other software under an incompatible license interacting with other components within the Supplied Software</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T050609Z" creationid="maabou" creationdate="20170316T050609Z">
+        <seg>供給されたソフトウェア内で他コンポーネントと連動するが、お互いに互換性のないライセンスの下にあるFOSS、その他ソフトウェア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>contains modified FOSS</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170316T045307Z" creationid="maabou" creationdate="20170316T045307Z">
+        <seg>修正されたFOSSを含んでいる</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
