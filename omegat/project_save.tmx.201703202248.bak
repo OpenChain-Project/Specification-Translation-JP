@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>A description of the SPDX specification can be found at ww.spdx.org.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140400Z" creationid="maabou" creationdate="20170308T061223Z">
-        <seg>SPDXについてはww.spdx.orgにその仕様が記載されています</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T070153Z" creationid="maabou" creationdate="20170308T061223Z">
+        <seg>SPDXについてはww.spdx.orgにその仕様が記載されています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140124Z" creationid="maabou" creationdate="20170307T092921Z">
-        <seg>こういった背景から、標準的なプログラムの仕様というものを整備することができるかどうか検討する研究グループが形成されました。これは、i) 産業横断的に共有されるオープンソース コンプライアンスに係る情報の品質と一貫性向上を促進し；  ii)コンプライアンス作業の再実施に起因する、オープンソースに関連するトランザクションコストを低減することを見据えています。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T063128Z" creationid="maabou" creationdate="20170307T092921Z">
+        <seg>こういった背景から、標準的なプログラムの仕様というものを整備することができるかどうか検討する研究グループが形成されました。これは、 i) 産業横断的に共有されるオープンソース コンプライアンスに係る情報の品質と一貫性向上を促進し;  ii)コンプライアンス作業の再実施に起因する、オープンソースに関連するトランザクションコストを低減することを見据えています。</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,16 +248,16 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       <tuv lang="EN-US">
         <seg>Depending on the organization, that may include (but is not limited to) software developers, release engineers, quality engineers, product marketing and product management.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140352Z" creationid="maabou" creationdate="20170307T203633Z">
-        <seg>組織によっては、ソフトウェア開発者、リリースエンジニア、品質管理技術者、プロダクトマーケティング担当者やプロダクト管理者が含まれる場合がありますが、この限りではありません</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T070144Z" creationid="maabou" creationdate="20170307T203633Z">
+        <seg>組織によっては、ソフトウェア開発者、リリースエンジニア、品質管理技術者、プロダクトマーケティング担当者やプロダクト管理者が含まれる場合がありますが、この限りではありません。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Distributed Compliance Artifacts - the set of artifacts that an Identified License requires be provided with Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140536Z" creationid="maabou" creationdate="20170307T095021Z">
-        <seg>頒布・配布コンプライアンス関連生成物－供給ソフトウェアとともに確認済みライセンスの提供が求められる生成物一式のことであり、</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T065616Z" creationid="maabou" creationdate="20170307T095021Z">
+        <seg>頒布・配布コンプライアンス関連生成物 －供給ソフトウェアとともに確認済みライセンスの提供が求められる生成物一式のことであり、</seg>
       </tuv>
     </tu>
     <tu>
@@ -331,8 +331,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140542Z" creationid="maabou" creationdate="20170307T123125Z">
-        <seg>FOSS (フリー/オープンソース ソフトウェア)－オープンソース イニシアティブ(OpenSource.org)によって発行されているオープンソースの定義、もしくはフリーソフトウェア ファンデーションによって発行されているフリーソフトウェアの定義に該当するライセンス、もしくはそれに類似する1つ以上のライセンスに従うソフトウェアのこと</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T065827Z" creationid="maabou" creationdate="20170307T123125Z">
+        <seg>FOSS (フリー/オープンソース ソフトウェア) －オープンソース イニシアティブ(OpenSource.org)によって発行されているオープンソースの定義、もしくはフリーソフトウェア ファンデーションによって発行されているフリーソフトウェアの定義に該当するライセンス、もしくはそれに類似する1つ以上のライセンスに従うソフトウェアのこと</seg>
       </tuv>
     </tu>
     <tu>
@@ -577,18 +577,26 @@ tani:2.2.2項については具体的イメージがほしい</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain Conformance Specification 1.0</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T085711Z" creationid="maabou" creationdate="20170320T085543Z">
+        <seg>OpenChain 適合仕様書 第1.0版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OpenChain Conforming – a program that satisfies all the requirements of this specification.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140556Z" creationid="maabou" creationdate="20170307T130208Z">
-        <seg>OpenChain準拠－本仕様書のすべての要件を満たすプログラムのこと</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T130537Z" creationid="maabou" creationdate="20170307T130208Z">
+        <seg>OpenChain準拠 －本仕様書のすべての要件を満たすプログラムのこと</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Prepare the following Distributed Compliance Artifacts to accompany the Supplied Software as required by the corresponding Identified Licenses which might include (but is not limited to) the required:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140947Z" creationid="maabou" creationdate="20170316T211703Z">
-        <seg> 提供ソフトウェアが伴う確認済みライセンスに応じ要求される、以下の頒布・配布コンプライアンス生成物が用意されていること：</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T134710Z" creationid="maabou" creationdate="20170316T211703Z">
+        <seg> 提供ソフトウェアが伴う確認済みライセンスに応じ要求される、以下の頒布・配布コンプライアンス生成物が用確認済みライセンス意されていること：</seg>
       </tuv>
     </tu>
     <tu>
@@ -645,8 +653,8 @@ tani:2.2.2項については具体的イメージがほしい</note>
       <tuv lang="EN-US">
         <seg>SPDX or Software Package Data Exchange – the format standard created by the SPDX Working Group for exchanging license and copyright information for a given software package.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140609Z" creationid="maabou" creationdate="20170308T060837Z">
-        <seg>SPDX もしくはSoftware Package Data Exchange－SPDXワーキンググループによって作られた、ライセンスや著作権情報をやり取りすることを目的としたフォーマット標準のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170308T061305Z" creationid="maabou" creationdate="20170308T060837Z">
+        <seg>SPDX もしくはSoftware Package Data Exchange－ SPDXワーキンググループによって作られた、ライセンスや著作権情報をやり取りすることを目的としたフォーマット標準のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -669,8 +677,8 @@ tani:2.2.2項については具体的イメージがほしい</note>
       <tuv lang="EN-US">
         <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T141103Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェア スタッフ－提供されるソフトウェアを作り出し、コントリビュートし、もしくはそれを使えるようにするために責任をもつ、あらゆる従業員や契約者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T070122Z" creationid="maabou" creationdate="20170307T130606Z">
+        <seg>ソフトウェアスタッフ－提供されるソフトウェアを作り出し、コントリビュートし、もしくはそれを使えるようにするために責任をもつ、あらゆる従業員や契約者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -695,8 +703,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>Supplied Software – software that an organization delivers to third parties (e.g., other organizations or individuals).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T140626Z" creationid="maabou" creationdate="20170308T062145Z">
-        <seg>供給ソフトウェア－組織が第三者に対し提供するソフトウェアのこと</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T070159Z" creationid="maabou" creationdate="20170308T062145Z">
+        <seg>供給ソフトウェア －組織が第三者に対し提供するソフトウェアのこと</seg>
       </tuv>
     </tu>
     <tu>
@@ -759,8 +767,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The latter observation resulted in a lack of trust in the consistency and quality of the compliance artifacts accompanying the software being exchanged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T135943Z" creationid="maabou" creationdate="20170307T092756Z">
-        <seg>後者の観測では、ソフトウェアのやり取りで付随する、コンプライアンス関連生成物の一貫性や品質について信頼を喪失させる事態を引き起こし、</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T062745Z" creationid="maabou" creationdate="20170307T092756Z">
+        <seg>後者の観測では、ソフトウェアのやり取りで付随する、コンプライアンス関連生成物の一貫性や品質について信頼を喪失させる事態を引き起こし、.</seg>
       </tuv>
     </tu>
     <tu>
@@ -897,16 +905,16 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>Verification Artifact(s):</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T135441Z" creationid="maabou" creationdate="20170308T115440Z">
-        <seg>証跡：</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T134703Z" creationid="maabou" creationdate="20170308T115440Z">
+        <seg> 証跡：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Verification Artifacts - evidence that must exist in order for a given requirement to be considered satisfied.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T135114Z" creationid="maabou" creationdate="20170308T062223Z">
-        <seg>証跡－与えられた要件が満足しているとみなされるために存在しなければならない確証のこと</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T070205Z" creationid="maabou" creationdate="20170308T062223Z">
+        <seg>証跡 - 与えられた要件が満足しているとみなされるために存在しなければならない確証のこと</seg>
       </tuv>
     </tu>
     <tu>
