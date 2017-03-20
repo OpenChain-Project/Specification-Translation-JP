@@ -404,8 +404,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>G2: Assign Responsibility for Achieving Compliance</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T125220Z" creationid="maabou" creationdate="20170312T080325Z">
-        <seg>G2:コンプライアンス到達のための責任者のアサインしている</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T125337Z" creationid="maabou" creationdate="20170312T080325Z">
+        <seg>G2: コンプライアンス到達のための責任者のアサインしている</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,8 +438,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>G6: Certify Adherence to OpenChain Requirements</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T062332Z" creationid="maabou" creationdate="20170320T043111Z">
-        <seg>G6:OpenChainの要件を遵守していることを認定する</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T125340Z" creationid="maabou" creationdate="20170320T043111Z">
+        <seg>G6: OpenChainの要件を遵守していることを認定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -491,8 +491,8 @@ tani:2.2.2項については具体的イメージがほしい</note>
       <tuv lang="EN-US">
         <seg>In accordance with the Vision and Mission, this specification defines a set of requirements that if met, would significantly increases the probability that an open source compliance program had achieved a sufficient level of quality, consistency and completeness; although a program that satisfies all the specification requirements does not guarantee full compliance.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T064701Z" creationid="maabou" creationdate="20170307T093253Z">
-        <seg>上記ビジョンとミッションに則り、本仕様書ではオープンソース コンプライアンス プログラムがこれに適合した場合、品質や一貫性や完全性が十分なレベルに到達する可能性を著しく高めてくれるであろう要件の一式を定義しています；ただし本仕様書は、本要件のすべてを満たしていたとしてもそのプログラムが全面的に準拠していることを保証するものではありまえせん。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T125656Z" creationid="maabou" creationdate="20170307T093253Z">
+        <seg>上記ビジョンとミッションに則り、本仕様書ではオープンソース コンプライアンス プログラムがこれに適合した場合、品質や一貫性や完全性が十分なレベルに到達する可能性を著しく高めてくれるであろう要件の一式を定義しています；ただし本仕様書は、本要件のすべてを満たしていたとしてもそのプログラムが全面的に準拠していることを保証するものではありえません。</seg>
       </tuv>
     </tu>
     <tu>
@@ -555,8 +555,8 @@ tani:2.2.2項については具体的イメージがほしい</note>
       <tuv lang="EN-US">
         <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the  requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T063307Z" creationid="maabou" creationdate="20170307T093145Z">
-        <seg>ミッション:  フリー/オープンソース ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア サプライチェーンに参加する人たちのために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていきます</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T125725Z" creationid="maabou" creationdate="20170307T093145Z">
+        <seg>ミッション: フリー/オープンソース ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア サプライチェーンに参加する人たちのために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていきます</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,7 +929,7 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>Vision: A software supply chain where free/open source software (FOSS) is delivered with trusted and consistent compliance information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T063223Z" creationid="maabou" creationdate="20170307T093122Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170320T125718Z" creationid="maabou" creationdate="20170307T093122Z">
         <seg>ビジョン： フリー/オープンソース ソフトウェア(FOSS)が、信頼でき一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること</seg>
       </tuv>
     </tu>
