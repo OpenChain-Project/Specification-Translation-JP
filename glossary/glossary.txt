@@ -104,3 +104,4 @@ such	（法律）前述の、上記の、当該の
 might	～してもよい、～かもしれない	法律用語では「～する場合がある」といった訳がある
 consideration	考慮、意見、判断など
 engagement	（積極的な）参加、関与
+nevertheless	～にも関わらず

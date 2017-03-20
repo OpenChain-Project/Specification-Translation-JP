@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A policy may exist such that contributions are not permitted at all.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T043006Z" creationid="maabou" creationdate="20170320T042208Z">
+        <seg>ポリシーはここでいうコントリビューションが許容されてない場合においても存在する場合がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A process exists for identifying, tracking and archiving a list of all FOSS components (and their respective Identified Licenses) from which Supplied Software is comprised.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170314T013204Z" creationid="maabou" creationdate="20170314T011211Z">
@@ -231,6 +239,14 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170308T060500Z" creationid="maabou" creationdate="20170307T095021Z">
         <seg>頒布・配布コンプライアンス生成物 －供給されたソフトウェアとともに特定されたライセンスが提供されることが求められる生成物一式であり</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensure an organization has a documented process for how the organization publicly contributes FOSS.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T042121Z" creationid="maabou" creationdate="20170320T042015Z">
+        <seg>公にされているFOSSへコントリビュートするやり方について文書化されたプロセスを持っていることを確かなものとする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -401,6 +417,14 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>G6: Certify Adherence to OpenChain Requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T043221Z" creationid="maabou" creationdate="20170320T043111Z">
+        <seg>G6:OpenChainの要件遵守を証明する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170314T012654Z" creationid="maabou" creationdate="20170307T125249Z">
@@ -448,6 +472,14 @@ tani:2.2.2項については具体的イメージがほしい</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T130303Z" creationid="maabou" creationdate="20170307T093253Z">
         <seg>上記ビジョンとミッションに則り、本仕様書ではこれに適合するならばそのオープンソース・コンプライアンスプログラムは十分なレベルでの品質、一貫性と完全性を獲得している、その可能性を著しく高めてくれるであろう要件の一式を定義する。ただし、本要件のすべてを満たしていたとしてもそれが完全なコンプライアンスプログラムであることを保証するものではない。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that specific situation it is understood that no process may exist and this requirement would nevertheless be met.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T043001Z" creationid="maabou" creationdate="20170320T042307Z">
+        <seg>そういった特有の状況で、プロセスが存在しないと理解される場合は、上記に関わらず本要件は満たされないものとする。</seg>
       </tuv>
     </tu>
     <tu>
@@ -537,6 +569,14 @@ tani:2.2.2項については具体的イメージがほしい</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170310T233552Z" creationid="maabou" creationdate="20170310T233552Z">
         <seg>提供されるソフトウェアのFOSSコンポーネントを特定し、記録し、もしくは追跡するためのプロセス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Provided the FOSS contribution policy permits contributions, a documented procedure exists that describes the FOSS contribution process.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T042107Z" creationid="maabou" creationdate="20170320T041718Z">
+        <seg>FOSSコントリビューションポリシーがコントリビューションを許容するものである場合でのFOSSコントリビューションのプロセスを記載した、文書化された手続きの存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,6 +857,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>adherence to project-specific contribution requirements</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T041524Z" creationid="maabou" creationdate="20170320T041447Z">
+        <seg>プロジェクト固有のコントリビューション要求の遵守</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>are distributed in binary form</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170316T045124Z" creationid="maabou" creationdate="20170316T045058Z">
@@ -856,12 +904,13 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
     </tu>
     <tu>
-      <note>tani:「engagement」は片方向の働きかけ、「interaction」は両方向でのやり取りのイメージ。</note>
+      <note>tani:「engagement」は片方向の働きかけ、「interaction」は両方向でのやり取りのイメージ。
+tani:ここは原文での分節区切りの場所が間違っていると思われる。</note>
       <tuv lang="EN-US">
         <seg>community engagement and interaction, including a project’s Code of Conduct or equivalent</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T034617Z" creationid="maabou" creationdate="20170320T033846Z">
-        <seg>コミュニティへの積極的関与と相互交流、</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T041409Z" creationid="maabou" creationdate="20170320T033846Z">
+        <seg>コミュニティへの積極的関与と相互交流、およびプロジェクトの行動規範（Code of Conduct ）もしくはそれに同等のものを含む</seg>
       </tuv>
     </tu>
     <tu>
