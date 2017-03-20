@@ -3,14 +3,14 @@ conformance	適合性
 specification	仕様	仕様書
 specification	仕様書	仕様の意味でも使う
 conformance specification	適合仕様	意味：適合性を確認するための仕様
-FOSS	フリー/オープンソース・ソフトウェア	Free/Open Source Software
+FOSS	フリー/オープンソース ソフトウェア	Free/Open Source Software
 Version 	版	【例】Version X.X = 第X.X版
 introduction	序文、はしがき、初めに、序論	言い回しはいろいろあるので文書特性に応じて使い分けること
 initiative	イニシアチブ	基本的に日本語に変えずに用いたほうがよさそう
 practitioner	実践する人
 initiative	取組み
 open source	オープンソース
-open source software	オープンソース・ソフトウェア	中黒を入れて区切る
+open source software	オープンソース ソフトウェア	半角スペースを入れて区切る
 supply chain	サプライチェーン
 emerging	新たに出現した	emerging
 observe	観測する
@@ -20,17 +20,17 @@ exchange	交換する
 exchange	やり取りする
 the latter	後者	前者：the former
 accompany	添える	添付するなど
- artifacts	人工物	基本の意味：ヒトの手で作られたもの
- artifacts	（ソフトウェア開発などでの）ドキュメント類	ソフトウェア開発としての意味では以下参照。"tangible by-product"とある。 https://en.wikipedia.org/wiki/Artifact_(software_development)
+artifacts	人工物	基本の意味：ヒトの手で作られたもの
+artifacts	（ソフトウェア開発などでの）ドキュメント類	ソフトウェア開発としての意味では以下参照。"tangible by-product"とある。 https://en.wikipedia.org/wiki/Artifact_(software_development)
 deliver	届ける
 deliver	デリバリされる	デリバリされる→ITサービス系の用語だとこういう使い方もありそう
 deliver	やりとりする	やりとりする→ちょっと意訳
 collateral	付随事項	意味：派生事項的な意味。以下から→http://www.dictionary.com/browse/collateral?s=t
 qualitｙ	属性
 verification artifacts	検証対象	ここは意訳なので、要議論
-free and open source software	フリー/オープンソース・ソフトウェア
-Open Source Initiative	オープンソース・イニシアティブ	団体名（固有名詞）
-Free Software Foundation	フリーソフトウェア・ファウンデーション	団体の固有名称につきそのままカタカナ表記する。
+free and open source software	フリー/オープンソース ソフトウェア
+Open Source Initiative	オープンソース イニシアティブ	団体名（固有名詞）
+Free Software Foundation	フリーソフトウェア ファウンデーション	団体の固有名称につきそのままカタカナ表記する。
 liaison	窓口	辞書では連絡係、通信係といった意味があるが、窓口がわかり易い
 conforming	準拠
 define	作り出す	以下辞書サイトで「to create on a computer」とある。→https://www.merriam-webster.com/dictionary/define
@@ -48,7 +48,7 @@ requirements	要件	要件定義など。単に「要件」だと流れが悪い
 know	知っている、理解している
 as a minimum	最低でも	as a minimum
 Verification Artifact(s)	確証として必要なもの、確証となるもの、証跡となるもの	※要議論。証跡とか成果物とかいろいろ出ている
-rationale	論理的根拠
+rationale	論理的根拠、論拠、そうした理由
 law	法律、法令、法規	法律＜法令＜法規、と意味に広がりがある。法律→国会で決議される国法レベル、法令→国会が制定する法律及び国の行政機関が制定する命令を合わせる、法規→最も広い意味での法規範一般
 pertain	付随する、関連する
 and/or	もしくは	とりあえずこうしておく。
@@ -60,8 +60,6 @@ section	節	いまのところ以下で整理しておく→章：Chapter、節�
 current	現時点で、認められて、普及して、最新の（adj.）
 core set	中核となる一連の情報
 relevant	関連のある、今日的な意味がある
-rationale	そうした理由
-rationale	そうした理由
 likely	ふさわしい、適している	以下サイトでは以下のように記載あり："seeming to fulfill requirements or expectations; apparently suitable"　http://www.dictionary.com/browse/likely?s=t
 achieving 	 達成する、実現する（attainment) 	辞書サイト引用：(1)something accomplished, especially by superior ability, special effort, great courage, etc.; a great or heroic deed:his remarkable achievements in art.(2)the act of achieving; attainment or accomplishment:the achievement of one's object.http://www.dictionary.com/browse/achievement
 assign	指名する、任命する、アサインする
@@ -105,3 +103,6 @@ might	～してもよい、～かもしれない	法律用語では「～する�
 consideration	考慮、意見、判断など
 engagement	（積極的な）参加、関与
 nevertheless	～にも関わらず
+ｃertify	証明する、認定する、保証する
+certify	証明する、保証する、認定する
+allow 	～させる
