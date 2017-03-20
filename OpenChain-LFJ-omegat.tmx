@@ -661,8 +661,8 @@ tani:2.2.2項については具体的イメージがほしい</note>
       <tuv lang="EN-US">
         <seg>Section 3 presents the specification requirements where each one has a list of one or more Verificatione Artifacts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T065349Z" creationid="maabou" creationdate="20170307T093525Z">
-        <seg>第3節では、仕様としての要件を示していきます。それぞれに 一つ以上の「証跡」があります。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T130052Z" creationid="maabou" creationdate="20170307T093525Z">
+        <seg>第3節では、仕様としての要件を示していきます。それぞれに一つ以上の「証跡」があります。</seg>
       </tuv>
     </tu>
     <tu>
