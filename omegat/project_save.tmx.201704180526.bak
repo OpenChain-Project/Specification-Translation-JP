@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>**Please Translate Here.** It has been translated from the original English text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211118Z" creationid="maabou" creationdate="20170409T065546Z">
-        <seg>英文ドキュメントから翻訳された公式翻訳版です。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T070620Z" creationid="maabou" creationdate="20170409T065546Z">
+        <seg>本家英文から翻訳された公式翻訳版です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,16 +32,16 @@
       <tuv lang="EN-US">
         <seg>A copy of the license can be obtained here: CC-BY-4.0</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211132Z" creationid="maabou" creationdate="20170409T070518Z">
-        <seg>ライセンスの写しはこちらで入手できます。 CC-BY-4.0</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T070518Z" creationid="maabou" creationdate="20170409T070518Z">
+        <seg>ライセンスの写しはこちらで入手できます。： CC-BY-4.0</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A description of the SPDX specification can be found at ww.spdx.org.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T060404Z" creationid="maabou" creationdate="20170308T061223Z">
-        <seg>SPDXについてはwww.spdx.orgにその仕様が記載されている。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T095112Z" creationid="maabou" creationdate="20170308T061223Z">
+        <seg>SPDXについてはww.spdx.orgにその仕様が記載されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,8 +153,8 @@
       <tuv lang="EN-US">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212103Z" creationid="maabou" creationdate="20170307T092921Z">
-        <seg>こうした背景から、標準的なコンプライアンス プログラムの仕様書を整備できるかどうかを検討する研究グループが形成されました。この仕様書は、i）業界全体で共有されるオープンソース コンプライアンス関連情報の品質と一貫性の向上促進、および、ii）コンプライアンス作業の再実施に起因するオープンソース関連の作業コストの低減、を実現するものです。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195310Z" creationid="maabou" creationdate="20170307T092921Z">
+        <seg>こういった背景から、標準的なコンプライアンス プログラムの仕様書を整備することができるかどうかを検討する研究グループが形成されました。この仕様書は、i) 業界全体で共有されるオープンソース コンプライアンス関連情報の品質と一貫性の向上促進、および、ii) コンプライアンス作業の再実施に起因するオープンソース関連の作業コストの低減、を実現するものです。</seg>
       </tuv>
     </tu>
     <tu>
@@ -279,14 +279,6 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Copyright © 2016 Linux Foundation.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211853Z" creationid="maabou" creationdate="20170424T211853Z">
-        <seg>Copyright © 2016 The Linux Foundation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093557Z" creationid="maabou" creationdate="20170307T093557Z">
@@ -313,8 +305,8 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       <tuv lang="EN-US">
         <seg>Distributed Compliance Artifacts - the set of artifacts that an Identified License requires be provided with Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212251Z" creationid="maabou" creationdate="20170307T095021Z">
-        <seg>頒布コンプライアンス関連資料（Distributed Compliance Artifacts）－確認済みライセンスによって供給ソフトウェアとともに提供を求められる生成物一式のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T090006Z" creationid="maabou" creationdate="20170307T095021Z">
+        <seg>頒布コンプライアンス関連資料－確認済みライセンスによって供給ソフトウェアとともに提供を求められる生成物一式のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,8 +321,8 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       <tuv lang="EN-US">
         <seg>Ensure an organization has given reasonable consideration to developing a policy with respect to publicly contributing to FOSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T061027Z" creationid="maabou" creationdate="20170320T025220Z">
-        <seg>FOSSへの公的なコントリビューションに関するポリシーの作成について、組織が十分に検討していることを確かなものとします。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T192609Z" creationid="maabou" creationdate="20170320T025220Z">
+        <seg>FOSSへの公的なコントリビューションに関するポリシーの作成について、組織が十分に検討したことを確かなものとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -388,8 +380,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212351Z" creationid="maabou" creationdate="20170307T123125Z">
-        <seg>FOSS（フリー／オープンソース ソフトウェア）－Open Source Initiative（OpenSource.org）によって公開されているオープンソースの定義や（Free Software Foundationによって公開されている） フリー ソフトウェアの定義に該当または類似したライセンスの1つもしくはそれ以上に従うソフトウェアのこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T202633Z" creationid="maabou" creationdate="20170307T123125Z">
+        <seg>FOSS（フリー/オープンソース ソフトウェア）－Open Source Initiative（OpenSource.org）によって公開されているオープンソースの定義や（Free Software Foundationによって公開されている） フリー ソフトウェアの定義に該当もしくはそれに類似したライセンスの、1つもしくはそれ以上に従うソフトウェアのこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -397,8 +389,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>FOSS Liaison - a designated person who is assigned to receive external FOSS inquires.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212359Z" creationid="maabou" creationdate="20170307T125222Z">
-        <seg>FOSS 窓口（FOSS Liaison）－FOSSに関し、外部からの問い合わせに対応するためにアサインされた担当者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T093446Z" creationid="maabou" creationdate="20170307T125222Z">
+        <seg>FOSS 窓口－FOSSに関し、外部からの問い合わせに対応するためにアサインされた担当者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,8 +601,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Method of tracking the completion of the course for all Software Staff.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T060449Z" creationid="maabou" creationdate="20170311T000106Z">
-        <seg>ソフトウェア スタッフ全員についてコースの修了を追跡する手段がある。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T131617Z" creationid="maabou" creationdate="20170311T000106Z">
+        <seg>ソフトウェア スタッフ全員がコースを修了していることを確認する手段がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +752,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T060107Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、定義し、コントリビュートし、もしくは使えるよう準備する責任を持つ従業員や契約者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T200252Z" creationid="maabou" creationdate="20170307T130606Z">
+        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、定義し、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,8 +818,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211921Z" creationid="maabou" creationdate="20170307T092358Z">
-        <seg>OpenChain イニシアチブは2013年に開始されました。当時ソフトウェア サプライチェーンでオープンソースを活用していた実務者グループは、オープンソース コンプライアンスに関して2つのパターンを見出していました。それは、1）成熟したオープンソース コンプライアンス プログラムを持つ組織のプロセスには顕著な類似性があること、および、2）いまだに多くの組織が遅れたコンプライアンス プログラムでソフトウェアをやりとりしていること、です。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T195026Z" creationid="maabou" creationdate="20170307T092358Z">
+        <seg>OpenChain イニシアチブは2013年に開始されました。当時ソフトウェア サプライチェーンでオープンソースを活用していた実務者グループは、オープンソース コンプライアンスに関して2つのパターンを見出していました。それは、1) 成熟したオープンソース コンプライアンス プログラムを持つ組織のプロセスには顕著な類似性があること、および、2) いまだに多くの組織が遅れたコンプライアンス プログラムでソフトウェアをやりとりしていること、です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -908,8 +900,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The study group evolved into a work group, and in April 2016, formally organized as a Linux Foundation collaborative project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212129Z" creationid="maabou" creationdate="20170307T092936Z">
-        <seg>本グループはワーキング グループへと発展し、その後2016年4月に正式にLinux Foundation協業プロジェクトとして組織されました。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170417T200220Z" creationid="maabou" creationdate="20170307T092936Z">
+        <seg>本グループはワーキング グループへと発展し、その後2016年4月に正式にThe Linux Foundationの協業プロジェクトとして組織されました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,8 +1022,8 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
       <tuv lang="EN-US">
         <seg>Vision: A software supply chain where free/open source software (FOSS) is delivered with trusted and consistent compliance information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212211Z" creationid="maabou" creationdate="20170307T093122Z">
-        <seg>ビジョン： フリー／オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T200834Z" creationid="maabou" creationdate="20170307T093122Z">
+        <seg>ビジョン： フリー/オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
       </tuv>
     </tu>
     <tu>

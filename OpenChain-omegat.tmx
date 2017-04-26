@@ -134,14 +134,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>A process has been implemented that is capable of addressing the typical FOSS use</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170316T202746Z" creationid="maabou" creationdate="20170316T202746Z">
-        <seg>典型的なFOSSの</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>A process has been implemented that is capable of addressing the typical FOSS use cases encountered by Software Staff for Supplied Software.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T190148Z" creationid="maabou" creationdate="20170316T203317Z">
@@ -615,14 +607,6 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the  requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T125725Z" creationid="maabou" creationdate="20170307T093145Z">
-        <seg>ミッション: フリー/オープンソース ソフトウェア(FOSS)の効果的マネジメントを実現するための 要件 をソフトウェア サプライチェーンに参加する人たちのために確立すること。こういった要件や関連する付随事項は、オープンに、ソフトウェア・サプライチェーン、オープンソース ・コミュニティやアカデミア（学術研究機関）の関係者それぞれがオープンに協働しながら開発を進めていきます</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T200840Z" creationid="maabou" creationdate="20170409T064345Z">
@@ -746,14 +730,6 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170416T061137Z" creationid="maabou" creationdate="20170409T071950Z">
         <seg>第3節では、仕様としての要件を示します。それぞれに1つ以上の「 検証すべき証跡（Verification Artifact）」があります。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>Section 3 presents the specification requirements where each one has a list of one or more Verificatione Artifacts.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T130052Z" creationid="maabou" creationdate="20170307T093525Z">
-        <seg>第3節では、仕様としての要件を示していきます。それぞれに一つ以上の「証跡」があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,14 +962,6 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>To ensure that if an organization declares that it has a program that is OpenChain Conforming,</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170320T061312Z" creationid="maabou" creationdate="20170320T061312Z">
-        <seg>組織がOpenChainに適合しているプログラムを有していることを宣言した場合に、</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>To ensure that if an organization declares that it has a program that is OpenChain Conforming, that such program has met all the requirements of this specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T194302Z" creationid="maabou" creationdate="20170320T061557Z">
@@ -1090,14 +1058,6 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T193452Z" creationid="maabou" creationdate="20170320T033846Z">
         <seg>コミュニティへの積極的参加および関わり方。たとえばプロジェクトの行動規範（Code of Conduct）もしくはそれと同等のものなど</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
-        <seg>contains FOSS or other software under an incompatible license interacting with other</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170316T045415Z" creationid="maabou" creationdate="20170316T045415Z">
-        <seg>FOSSもしくは互換性</seg>
       </tuv>
     </tu>
     <tu>

@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>**Please Translate Here.** It has been translated from the original English text.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211118Z" creationid="maabou" creationdate="20170409T065546Z">
-        <seg>英文ドキュメントから翻訳された公式翻訳版です。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T070620Z" creationid="maabou" creationdate="20170409T065546Z">
+        <seg>本家英文から翻訳された公式翻訳版です。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,16 +32,16 @@
       <tuv lang="EN-US">
         <seg>A copy of the license can be obtained here: CC-BY-4.0</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211132Z" creationid="maabou" creationdate="20170409T070518Z">
-        <seg>ライセンスの写しはこちらで入手できます。 CC-BY-4.0</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T070518Z" creationid="maabou" creationdate="20170409T070518Z">
+        <seg>ライセンスの写しはこちらで入手できます。： CC-BY-4.0</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A description of the SPDX specification can be found at ww.spdx.org.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T060404Z" creationid="maabou" creationdate="20170308T061223Z">
-        <seg>SPDXについてはwww.spdx.orgにその仕様が記載されている。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T095112Z" creationid="maabou" creationdate="20170308T061223Z">
+        <seg>SPDXについてはww.spdx.orgにその仕様が記載されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,8 +104,8 @@
       <tuv lang="EN-US">
         <seg>A documented procedure exists that makes all Software Staff aware of the existence of the FOSS policy (e.g., via training, internal wiki, or other practical communication method).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T200047Z" creationid="maabou" creationdate="20170308T205415Z">
-        <seg>すべてのソフトウェア スタッフが（トレーニングや社内wiki、その他実践的なコミュニケーションを通じて）FOSSポリシーの存在を知ることのできる文書化された手続きが存在する。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T192449Z" creationid="maabou" creationdate="20170308T205415Z">
+        <seg>すべてのソフトウェアスタッフに（トレーニングや社内wiki、その他実践的なコミュニケーションを通じ）FOSSポリシーの存在を知らせる、文書化された手続きの存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,16 +153,16 @@
       <tuv lang="EN-US">
         <seg>A study group was formed to consider whether a standard program specification could be created that would: i) facilitate greater quality and consistency of open source compliance information being shared across the industry; and ii) decrease the high transaction costs associated with open source resulting from compliance rework.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212103Z" creationid="maabou" creationdate="20170307T092921Z">
-        <seg>こうした背景から、標準的なコンプライアンス プログラムの仕様書を整備できるかどうかを検討する研究グループが形成されました。この仕様書は、i）業界全体で共有されるオープンソース コンプライアンス関連情報の品質と一貫性の向上促進、および、ii）コンプライアンス作業の再実施に起因するオープンソース関連の作業コストの低減、を実現するものです。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T070818Z" creationid="maabou" creationdate="20170307T092921Z">
+        <seg>こういった背景から、標準的なプログラムの仕様というものを整備することができるかどうか検討する調査グループが形成されました。これは、i) 産業横断的に共有されるオープンソース コンプライアンスに係る情報の品質と一貫性向上を促進し；  ii)コンプライアンス作業の再実施に起因する、オープンソースに関連するトランザクションコストを低減することを見据えています。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>A test may be used to allow Software Staff to satisfy the training requirement.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170417T200432Z" creationid="maabou" creationdate="20170310T234703Z">
-        <seg>ソフトウェア スタッフがトレーニング要件を満たしていることを認めるために試験を実施する場合もある。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T131042Z" creationid="maabou" creationdate="20170310T234703Z">
+        <seg> そのトレーニング要件を満足させるために、ソフトウェアスタッフに対して試験を実施することができます。ソフトウェア スタッフがトレーニング要件を満たしていることを認めるために試験を実施する場合もある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -197,8 +197,8 @@
       <tuv lang="EN-US">
         <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T195131Z" creationid="maabou" creationdate="20170307T092832Z">
-        <seg>そしてその結果、サプライチェーンの各段階で、上流側組織が既に実行したコンプライアンス業務を下流側組織が頻繁に再実行していました。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T062827Z" creationid="maabou" creationdate="20170307T092832Z">
+        <seg>その結果、サプライチェーンのそれぞれの段階において、上流側組織で既に実施したコンプライアンス業務が下流組織で再び実施されていました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -279,14 +279,6 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>Copyright © 2016 Linux Foundation.</seg>
-      </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211853Z" creationid="maabou" creationdate="20170424T211853Z">
-        <seg>Copyright © 2016 The Linux Foundation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>Definitions</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T093557Z" creationid="maabou" creationdate="20170307T093557Z">
@@ -313,8 +305,8 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       <tuv lang="EN-US">
         <seg>Distributed Compliance Artifacts - the set of artifacts that an Identified License requires be provided with Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212251Z" creationid="maabou" creationdate="20170307T095021Z">
-        <seg>頒布コンプライアンス関連資料（Distributed Compliance Artifacts）－確認済みライセンスによって供給ソフトウェアとともに提供を求められる生成物一式のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T090006Z" creationid="maabou" creationdate="20170307T095021Z">
+        <seg>頒布コンプライアンス関連資料－確認済みライセンスによって供給ソフトウェアとともに提供を求められる生成物一式のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -329,8 +321,8 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       <tuv lang="EN-US">
         <seg>Ensure an organization has given reasonable consideration to developing a policy with respect to publicly contributing to FOSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T061027Z" creationid="maabou" creationdate="20170320T025220Z">
-        <seg>FOSSへの公的なコントリビューションに関するポリシーの作成について、組織が十分に検討していることを確かなものとします。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T192609Z" creationid="maabou" creationdate="20170320T025220Z">
+        <seg>FOSSへの公的なコントリビューションに関するポリシーの作成について、組織が十分に検討したことを確かなものとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -388,8 +380,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>FOSS (Free and Open Source Software) - software subject to one or more licenses that meet the Open Source Definition published by the Open Source Initiative (OpenSource.org) or the Free Software Definition (published by the Free Software Foundation) or similar license.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212351Z" creationid="maabou" creationdate="20170307T123125Z">
-        <seg>FOSS（フリー／オープンソース ソフトウェア）－Open Source Initiative（OpenSource.org）によって公開されているオープンソースの定義や（Free Software Foundationによって公開されている） フリー ソフトウェアの定義に該当または類似したライセンスの1つもしくはそれ以上に従うソフトウェアのこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T093413Z" creationid="maabou" creationdate="20170307T123125Z">
+        <seg>FOSS (フリー/オープンソース ソフトウェア)－Open Source Initiative（OpenSource.org）によって公開されているオープンソースの定義や（Free Software Foundationによって公開されている） フリー ソフトウェアの定義に該当もしくはそれに類似したライセンスの、1つもしくはそれ以上に従うソフトウェアのこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -397,8 +389,8 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>FOSS Liaison - a designated person who is assigned to receive external FOSS inquires.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212359Z" creationid="maabou" creationdate="20170307T125222Z">
-        <seg>FOSS 窓口（FOSS Liaison）－FOSSに関し、外部からの問い合わせに対応するためにアサインされた担当者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T093446Z" creationid="maabou" creationdate="20170307T125222Z">
+        <seg>FOSS 窓口－FOSSに関し、外部からの問い合わせに対応するためにアサインされた担当者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,16 +496,16 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       <tuv lang="EN-US">
         <seg>Identified Licenses - a set of FOSS licenses identified as a result of following an appropriate method of identifying such licenses.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T061759Z" creationid="maabou" creationdate="20170307T125249Z">
-        <seg>確認ライセンス（Identified License）－適切なライセンス確認手順の結果として存在の確認ができた一連のFOSSライセンスのこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T093552Z" creationid="maabou" creationdate="20170307T125249Z">
+        <seg>確認ライセンス－適切なライセンス確認手順の結果として存在の確認ができた一連のFOSSライセンスのこと。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Identify FOSS Liaison Function ("FOSS Liaison").</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T063032Z" creationid="maabou" creationdate="20170312T080404Z">
-        <seg>FOSSに関する窓口機能を明確にすること（「FOSS窓口」）。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T132427Z" creationid="maabou" creationdate="20170312T080404Z">
+        <seg>FOSSに関する窓口機能をを明確にすること（「FOSS窓口」）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -609,8 +601,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Method of tracking the completion of the course for all Software Staff.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T060449Z" creationid="maabou" creationdate="20170311T000106Z">
-        <seg>ソフトウェア スタッフ全員についてコースの修了を追跡する手段がある。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T131617Z" creationid="maabou" creationdate="20170311T000106Z">
+        <seg>ソフトウェア スタッフ全員がコースを修了していることを確認する手段がある。</seg>
       </tuv>
     </tu>
     <tu>
@@ -625,8 +617,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Mission: Establish requirements to achieve effective management of free/open source software (FOSS) for software supply chain participants, such that the requirements and associated collateral are developed collaboratively and openly by representatives from the software supply chain, open source community, and academia.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T200840Z" creationid="maabou" creationdate="20170409T064345Z">
-        <seg>ミッション：FOSSの効果的マネジメントを実現するための要件をソフトウェア サプライチェーンに参加する人々のために確立すること。このような要件やそれらに関連する付帯事項については、ソフトウェア サプライチェーン、オープンソース コミュニティ、および学術研究機関の代表者らがオープンに協働しながら開発を進める。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T064345Z" creationid="maabou" creationdate="20170409T064345Z">
+        <seg>FOSSの効果的マネジメントを実現するための要件をソフトウェア サプライチェーンに参加する人々のために確立すること。このような要件やそれらに関連する付帯事項については、ソフトウェア サプライチェーン、オープンソース コミュニティ、および学術研究機関の代表者らがオープンに協働しながら開発を進める。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -637,16 +629,16 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Name of persons, group or function in FOSS Compliance role(s) identified.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170417T200450Z" creationid="maabou" creationdate="20170312T211220Z">
-        <seg>FOSSコンプライアンスの履行担当者名、グループ名または役割名称が特定できる。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T135142Z" creationid="maabou" creationdate="20170312T211220Z">
+        <seg>FOSSコンプライアンスの役割おける特定の個人名、グループ名もしくは機能名；FOSSコンプライアンスの履行担当者名、グループ名または役割名称が特定できる。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>OpenChain Conformance Specification</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170417T201729Z" creationid="maabou" creationdate="20170307T091622Z">
-        <seg>OpenChain 適合仕様書</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170307T091622Z" creationid="maabou" creationdate="20170307T091622Z">
+        <seg>Openchain 適合仕様書</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,8 +678,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Provided the FOSS contribution policy permits contributions, a documented procedure exists that describes the FOSS contribution process.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T074646Z" creationid="maabou" creationdate="20170320T041718Z">
-        <seg>FOSSコントリビューション ポリシーがコントリビューションを許容するものである場合、FOSSコントリビューションのプロセスを記載した手続きが文書化されている。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T193615Z" creationid="maabou" creationdate="20170320T041718Z">
+        <seg>FOSSコントリビューション ポリシーがコントリビューションを許容するものである場合、FOSSコントリビューションのプロセスを記載した手続きの文書が存在する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -740,12 +732,11 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       </tuv>
     </tu>
     <tu>
-      <note>tani:原文の用語を残すことで読者が検証できるように配慮する方針にする。</note>
       <tuv lang="EN-US">
         <seg>Section 3 presents the specification requirements where each one has a list of one or more Verification Artifacts.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T061137Z" creationid="maabou" creationdate="20170409T071950Z">
-        <seg>第3節では、仕様としての要件を示します。それぞれに1つ以上の「 検証すべき証跡（Verification Artifact）」があります。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T071950Z" creationid="maabou" creationdate="20170409T071950Z">
+        <seg>第3節では、仕様としての要件を示します。それぞれに1つ以上の「 検証すべき証跡」があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,8 +751,8 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       <tuv lang="EN-US">
         <seg>Software Staff - any employee or contractor that defines, contributes to or has responsibility for preparing Supplied Software.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170425T060107Z" creationid="maabou" creationdate="20170307T130606Z">
-        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、定義し、コントリビュートし、もしくは使えるよう準備する責任を持つ従業員や契約者のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T095015Z" creationid="maabou" creationdate="20170307T130606Z">
+        <seg>ソフトウェア スタッフ－供給ソフトウェアについて、創り出し、コントリビュートし、もしくは使えるよう準備する責任をもつ従業員や契約者のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -786,8 +777,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>Supplied Software – software that an organization delivers to third parties (e.g., other organizations or individuals).</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T063029Z" creationid="maabou" creationdate="20170308T062145Z">
-        <seg>供給ソフトウェア（Supplied Software）－組織が第三者（他組織または個人）に対して提供するソフトウェアのこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T095146Z" creationid="maabou" creationdate="20170308T062145Z">
+        <seg>供給ソフトウェア－組織が第三者（他組織または個人）に対して提供するソフトウェアのこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -826,16 +817,16 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The OpenChain Initiative began in 2013 when a group of software supply chain open source practitioners observed two emerging patterns: 1) significant process similarities existed among organizations with mature open source compliance programs; and 2) there still remained a large number of organizations exchanging software with less developed programs.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T211921Z" creationid="maabou" creationdate="20170307T092358Z">
-        <seg>OpenChain イニシアチブは2013年に開始されました。当時ソフトウェア サプライチェーンでオープンソースを活用していた実務者グループは、オープンソース コンプライアンスに関して2つのパターンを見出していました。それは、1）成熟したオープンソース コンプライアンス プログラムを持つ組織のプロセスには顕著な類似性があること、および、2）いまだに多くの組織が遅れたコンプライアンス プログラムでソフトウェアをやりとりしていること、です。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T063040Z" creationid="maabou" creationdate="20170307T092358Z">
+        <seg>OpenChain イニシアチブがスタートした2013年、この年ソフトウェア サプライチェーンでオープンソースを活用していた実践者たちは、表面化してきている2つのパターンを観測していました：1) 成熟したオープンソース コンプライアンス プログラムを持つ組織において、そのプロセスに意味ありげな類似性があったこと； 2)一方でいまだ多くの組織においてソフトウェアのやり取りするためのプログラムが非先進的なものだったこと。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>The Vision and Mission of the OpenChain Initiative are as follows:</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T195351Z" creationid="maabou" creationdate="20170307T093105Z">
-        <seg>OpenChainイニシアチブのビジョンとミッションは以下のとおりです。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T063216Z" creationid="maabou" creationdate="20170307T093105Z">
+        <seg>OpenChain イニシアチブのビジョンとミッションは以下のとおりです：</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,8 +841,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The latter observation resulted in a lack of trust in the consistency and quality of the compliance artifacts accompanying the software being exchanged.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T195143Z" creationid="maabou" creationdate="20170307T092756Z">
-        <seg>後者の実態は、やりとりするソフトウェアに付随したコンプライアンス関連資料の一貫性や品質に対する信頼を喪失させました。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T135943Z" creationid="maabou" creationdate="20170307T092756Z">
+        <seg>後者の観測では、ソフトウェアのやり取りで付随する、コンプライアンス関連生成物の一貫性や品質について信頼を喪失させる事態を引き起こし、</seg>
       </tuv>
     </tu>
     <tu>
@@ -883,7 +874,7 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The requirements represent a base level (minimum) set of requirements a program must satisfy to be considered OpenChain Conforming.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T200927Z" creationid="maabou" creationdate="20170307T093320Z">
+      <tuv lang="JA" changeid="maabou" changedate="20170409T071456Z" creationid="maabou" creationdate="20170307T093320Z">
         <seg>本要件は、そのコンプライアンス プログラムがOpenChainに適合しているとみなされるために満足しなければならない基本レベル（最低限）の要件一式を提示するものです。</seg>
       </tuv>
     </tu>
@@ -908,8 +899,8 @@ tani:Specificallyとin generalで対比している？</note>
       <tuv lang="EN-US">
         <seg>The study group evolved into a work group, and in April 2016, formally organized as a Linux Foundation collaborative project.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212129Z" creationid="maabou" creationdate="20170307T092936Z">
-        <seg>本グループはワーキング グループへと発展し、その後2016年4月に正式にLinux Foundation協業プロジェクトとして組織されました。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T063146Z" creationid="maabou" creationdate="20170307T092936Z">
+        <seg>本研究グループは、ワーキンググループへと発展し、のち2016年4月 、正式にThe Linux Foundationのコラボレーティブ・プロジェクトとして組織されることとなりました。</seg>
       </tuv>
     </tu>
     <tu>
@@ -924,15 +915,12 @@ tani:Specificallyとin generalで対比している？</note>
       <note>tani : written offerはOSSに固有の用語と思われる。以下2つの情報源を見ると、ソースコードを入手するための方法を書面で案内することを意味しているように見える。ここは脚注で補足した方がよさそう。
 https://docs.oracle.com/cd/E27124_01/html/E27471/z40004091001810.html
 http://download-c.huawei.com/download/downloadCenter?downloadId=18144
-
-
-tani:原文の用語を残すことで読者が検証できるように配慮する方針にする。
 </note>
       <tuv lang="EN-US">
         <seg>They include (but are not limited to) the following: copyright notices, copies of licenses, modification notifications, attribution notices, source code, written offers and so forth.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T062232Z" creationid="maabou" creationdate="20170307T100106Z">
-        <seg>著作権表示（Copyright notice）、ライセンスのコピー、改変告知（Modification notification）、帰属告知（Attribution notice）、ソースコード、書面による申し出（Written offer）などを含む。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T092637Z" creationid="maabou" creationdate="20170307T100106Z">
+        <seg>著作権表示（Copyright notice）、ライセンスのコピー、改変告知、帰属告知、ソースコード、書面による申し出などを含む。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1012,8 +1000,8 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
       <tuv lang="EN-US">
         <seg>Verification Artifacts - evidence that must exist in order for a given requirement to be considered satisfied.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T062725Z" creationid="maabou" creationdate="20170308T062223Z">
-        <seg>検証すべき証跡（Verification Artifact）－与えられた要件を満足しているとみなされるために存在しなければならない確証のこと。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T095241Z" creationid="maabou" creationdate="20170308T062223Z">
+        <seg>検証すべき証跡－与えられた要件を満足しているとみなされるために存在しなければならない確証のこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,8 +1018,8 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
       <tuv lang="EN-US">
         <seg>Vision: A software supply chain where free/open source software (FOSS) is delivered with trusted and consistent compliance information.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170424T212211Z" creationid="maabou" creationdate="20170307T093122Z">
-        <seg>ビジョン： フリー／オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T070850Z" creationid="maabou" creationdate="20170307T093122Z">
+        <seg>ビジョン： フリー/オープンソース ソフトウェア(FOSS)が、信頼でき一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1070,8 +1058,8 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
       <tuv lang="EN-US">
         <seg>attribution notices</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T064206Z" creationid="maabou" creationdate="20170316T212059Z">
-        <seg>帰属告知（Attribution notice）</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T191159Z" creationid="maabou" creationdate="20170316T212059Z">
+        <seg> 帰属告知</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,8 +1100,8 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       <tuv lang="EN-US">
         <seg>contains FOSS with attribution requirements</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T075323Z" creationid="maabou" creationdate="20170316T051122Z">
-        <seg>帰属要求（Attribution requirement）のあるFOSSを含んでいる</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T134702Z" creationid="maabou" creationdate="20170316T051122Z">
+        <seg> 帰属要求のあるFOSSを含んでいる</seg>
       </tuv>
     </tu>
     <tu>
@@ -1136,8 +1124,8 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       <tuv lang="EN-US">
         <seg>copyright notices</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T064209Z" creationid="maabou" creationdate="20170316T211756Z">
-        <seg>著作権表示（Copyright notice）</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T134712Z" creationid="maabou" creationdate="20170316T211756Z">
+        <seg> 著作権表示</seg>
       </tuv>
     </tu>
     <tu>
@@ -1153,16 +1141,16 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       <tuv lang="EN-US">
         <seg>modification notifications</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T064127Z" creationid="maabou" creationdate="20170316T212052Z">
-        <seg>改変告知（Modification notification）</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T191153Z" creationid="maabou" creationdate="20170316T212052Z">
+        <seg>改変告知</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>prominent notices</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T064050Z" creationid="maabou" creationdate="20170316T212324Z">
-        <seg>重要事項の告知（Prominent notice）</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T191216Z" creationid="maabou" creationdate="20170316T212324Z">
+        <seg>重要事項の告知</seg>
       </tuv>
     </tu>
     <tu>
@@ -1177,8 +1165,8 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       <tuv lang="EN-US">
         <seg>source code</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T064202Z" creationid="maabou" creationdate="20170316T212334Z">
-        <seg>ソースコード</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170320T134716Z" creationid="maabou" creationdate="20170316T212334Z">
+        <seg> ソースコード</seg>
       </tuv>
     </tu>
     <tu>
@@ -1194,8 +1182,8 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       <tuv lang="EN-US">
         <seg>written offers</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170416T064158Z" creationid="maabou" creationdate="20170316T212651Z">
-        <seg>書面による申し出（Written offer）</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170409T191314Z" creationid="maabou" creationdate="20170316T212651Z">
+        <seg> 書面による申し出</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
