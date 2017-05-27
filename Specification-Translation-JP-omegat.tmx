@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bill of materials is needed to support the systematic review of each component’s license terms to understand the obligations and restrictions as it applies to the distribution of the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T074126Z" creationid="maabou" creationdate="20170527T073506Z">
+        <seg>部品表は、各コンポーネントについて供給ソフトウェアを頒布する際に適用される義務、制約が理解できるライセンス条件を体系的に（システマチックに）レビューすることを支援するために必要となります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the license can be found at https://creativecommons.org/licenses/by/4.0/ .</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170526T235743Z" creationid="maabou" creationdate="20170526T235556Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170527T060410Z" creationid="maabou" creationdate="20170527T055650Z">
         <seg>遵守されていない状況での調査や改善を取り扱うための手続きが文書化されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A documented procedure exists for identifying, tracking and archiving information about the collection of FOSS components from which a Supplied Software release is comprised.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T070801Z" creationid="maabou" creationdate="20170527T070801Z">
+        <seg>リリースされた供給ソフトウェアを構成するFOSSコンポーネント集について情報を特定し、追跡し、保管するための手続きが文書化されている。</seg>
       </tuv>
     </tu>
     <tu>
@@ -163,6 +179,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T193945Z" creationid="maabou" creationdate="20170320T042208Z">
         <seg>コントリビューションが許容されてない場合においても、ポリシーは存在した方がよいでしょう。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A process exists for creating and managing a FOSS component bill of materials which includes each component (and its Identified Licenses) in a Supplied Software release.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T065828Z" creationid="maabou" creationdate="20170527T065828Z">
+        <seg>リリースされた供給ソフトウェアについて、各FOSSコンポーネント（およびその確認ライセンス）を含む部品表（Bill of material）を作り、管理するためのプロセスが存在すること。</seg>
       </tuv>
     </tu>
     <tu>
@@ -529,6 +553,14 @@ tani:effectivelyは、「効果的」だと弱いので、そのアサインの�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T134314Z" creationid="maabou" creationdate="20170312T202739Z">
         <seg>FOSSコンプライアンス管理に十分な活動資源が提供されていること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FOSS component records exist for each Supplied Software release which demonstrates the documented procedure was properly followed.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T072351Z" creationid="maabou" creationdate="20170527T072351Z">
+        <seg>供給ソフトウェアの各リリースに対し、FOSSコンポーネントの記録が存在し、文書化された手続きに適切に従っていることを示している。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,6 +1208,14 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T190553Z" creationid="maabou" creationdate="20170316T204911Z">
         <seg>そのFOSSプログラムが組織の業務遂行上生じる代表的なユースケースに対応できるよう十分堅固なものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To ensure a process exists for creating and managing a FOSS component bill of materials used to construct the Supplied Software.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T073121Z" creationid="maabou" creationdate="20170527T073121Z">
+        <seg>供給ソフトウェアを構成するために使用されるFOSSコンポーネントの部品表（Bill of material）を作り、管理するためのプロセスが存在することを確かなものにします。</seg>
       </tuv>
     </tu>
     <tu>
