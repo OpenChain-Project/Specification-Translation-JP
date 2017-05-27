@@ -317,6 +317,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appendix I: Language Translations</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T125716Z" creationid="maabou" creationdate="20170527T125716Z">
+        <seg>付録I：言語翻訳について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a consequence, at each tier of the supply chain, downstream organizations were frequently redoing the compliance work already performed by other upstream organizations.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T195131Z" creationid="maabou" creationdate="20170307T092832Z">
@@ -383,10 +391,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because OpenChain functions as an open source project translations are driven by those willing to contribute their time and expertise to perform translations under the terms of the CC-BY 4.0 license and the project’s translation policy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T131203Z" creationid="maabou" creationdate="20170527T131203Z">
+        <seg>OpenChainはオープンソース プロジェクトとして機能するため、各種翻訳は時間と専門的知見をコントリビュートすることに前向きな方々によって、CC-BY-4.0ライセンスとプロジェクトの翻訳ポリシーの下で推進されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Commercially reasonable budget has been allocated.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T134415Z" creationid="maabou" creationdate="20170312T203033Z">
         <seg>商業的に合理的な予算が配分されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conformance validation requirements can be found on the OpenChain project’s website.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T123503Z" creationid="maabou" creationdate="20170527T123205Z">
+        <seg>適合を認定するための要件はOpenChainプロジェクトのWebサイトで確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conformance with this version of the specification will last 18 months from the date conformance validation was achieved.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T123131Z" creationid="maabou" creationdate="20170527T123131Z">
+        <seg>本版の仕様書への適合は、適合が認定された日から18か月間持続します。</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,6 +801,14 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order for an organization to be OpenChain certified, it must affirm that it has a FOSS management program that meets the criteria described in this OpenChain Specification version 1.1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T122024Z" creationid="maabou" creationdate="20170527T122024Z">
+        <seg>組織がOpenChainに適合していると認定されるためには、本OpenChain仕様書第1.1版に記載された基準を満たすFOSSマネジメント プログラムを有していることを確認する必要がある。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order for an organization to be OpenChain certified, it must affirm that it has a FOSS program that meets the criteria described in this OpenChain Conformance Specification version 1.0.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T194109Z" creationid="maabou" creationdate="20170320T055433Z">
@@ -805,6 +845,14 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170307T092335Z" creationid="maabou" creationdate="20170307T092335Z">
         <seg>はじめに</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is important for the organization to remains current with the specification if they want to assert program conformance overtime.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T125132Z" creationid="maabou" creationdate="20170527T125132Z">
+        <seg>その組織が一定期間を超えてプログラムの適合を主張する場合、本仕様書の現状に即している状態を保つことが重要となります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,6 +1186,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The details of the policy and available translations can be found on the OpenChain project specification webpage.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T131338Z" creationid="maabou" creationdate="20170527T131338Z">
+        <seg>そのポリシーおよび入手可能な翻訳版の詳細については、OpenChain仕様のWebページでご確認ください。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The intent is to ensure a core base level set of topics are covered but a typical training program would likely be more comprehensive than what is required here.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T131953Z" creationid="maabou" creationdate="20170312T063523Z">
@@ -1158,6 +1214,23 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T194411Z" creationid="maabou" creationdate="20170320T062059Z">
         <seg>これらの要件に部分的に準拠しているだけではOpenChain適合認定を保証するに十分なものとはみなされません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The organization affirms that a FOSS management program exists that meets all the requirements of this OpenChain Specification version 1.1 within the past 18 months of achieving conformance validation.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T124511Z" creationid="maabou" creationdate="20170527T123911Z">
+        <seg>本OpenChain仕様書第1.1版の要件すべてに対応する、適合認定を過去18ヶ月以内に達成しているFOSSマネジメント プログラムがその組織に存在することを確認する。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>tani:meetは全要件を「遵守する」という意味ではなく、「突き合わせる」といったニュアンスにあんる</note>
+      <tuv lang="EN-US">
+        <seg>The organization affirms that a FOSS management program exists that meets all the requirements of this OpenChain Specification version 1.1.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T123548Z" creationid="maabou" creationdate="20170527T122236Z">
+        <seg>その組織に本OpenChain仕様書第1.1版の全ての要件に対応したFOSSマネジメント プログラムが存在することを確認する。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,6 +1356,14 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This requirement ensures that the program’s supporting processes and controls do not erode if they want to continue to assert conformance with the specification overtime.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T125620Z" creationid="maabou" creationdate="20170527T125620Z">
+        <seg>本要件は、組織が本仕様書への適合を一定期間超えて主張し続けたい場合においてそのプログラムが支えているプロセスや統制機能が損なわれていないことを確かなものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This set is referred to as the Compliance Artifacts which may include (but are not limited to) one or more of the following: source code, attribution notices, copyright notices, copy of licenses, modification notifications, written offers, SPDX documents and so forth.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170527T093341Z" creationid="maabou" creationdate="20170527T092824Z">
@@ -1344,6 +1425,14 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170527T091919Z" creationid="maabou" creationdate="20170527T091919Z">
         <seg>そのプログラムが組織における共通的なFOSSライセンスのユースケースに対応できるよう十分堅固なものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To facilitate global adoption we welcome efforts to translate the specification into multiple languages.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T130159Z" creationid="maabou" creationdate="20170527T130159Z">
+        <seg>グローバルでの採用促進のため、私たちは本仕様書を多言語に翻訳する取り組みを歓迎します。</seg>
       </tuv>
     </tu>
     <tu>

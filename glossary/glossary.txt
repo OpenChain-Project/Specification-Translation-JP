@@ -139,3 +139,5 @@ remediation	〔問題・欠点などの〕改善、矯正、修正
 bill of materials	部品表（BOMと略される）	以下参照。https://ja.wikipedia.org/wiki/BOM_(%E9%83%A8%E5%93%81%E8%A1%A8)
 construct	構成する、組み立てる、建造する
 incompatible	互換性のない、両立性のない	現時点ではML議論で「両立性」としている。
+meet	対応する、満たす
+facilitate	促進する、容易にする、楽にする、手助けする
