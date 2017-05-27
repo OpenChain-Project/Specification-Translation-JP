@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A copy of the license can be found at https://creativecommons.org/licenses/by/4.0/ .</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170526T235743Z" creationid="maabou" creationdate="20170526T235556Z">
+        <seg>ライセンスの写しは https://creativecommons.org/licenses/by/4.0/  で確認できます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A copy of the license can be obtained here: CC-BY-4.0</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170424T211132Z" creationid="maabou" creationdate="20170409T070518Z">
@@ -329,8 +337,8 @@ tani ここではarchiveを概念的にとらえ「保管物」とした。個�
       <tuv lang="EN-US">
         <seg>Ensure an organization has given reasonable consideration to developing a policy with respect to publicly contributing to FOSS.</seg>
       </tuv>
-      <tuv lang="JA" changeid="maabou" changedate="20170409T192609Z" creationid="maabou" creationdate="20170320T025220Z">
-        <seg>FOSSへの公的なコントリビューションに関するポリシーの作成について、組織が十分に検討したことを確かなものとします。</seg>
+      <tuv lang="JA" changeid="maabou" changedate="20170425T061027Z" creationid="maabou" creationdate="20170320T025220Z">
+        <seg>FOSSへの公的なコントリビューションに関するポリシーの作成について、組織が十分に検討していることを確かなものとします。</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +554,14 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>If all the requirements have been met for a given program, it would be considered OpenChain Conforming in accordance with version 1.1 of the specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170526T235932Z" creationid="maabou" creationdate="20170526T235932Z">
+        <seg>すべての要件をそのコンプライアンス プログラムが満たしている場合には、仕様書第1.1版における「OpenChain適合（OpenChain Conforming）」とみなされます。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:なんとなくニュアンスが表現しきれてない印象。結局全要件を満たした場合の意味が厳密にどういうことなのかがいまいちくみ取れない。結局は、お墨付きではなく、自助努力のための参照だよ、ということだろうか？
 
 →ここは工内さんが修正。
@@ -663,6 +679,14 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T093706Z" creationid="maabou" creationdate="20170307T130208Z">
         <seg>OpenChain適合（Open Chain Conforming）－本仕様書のすべての要件を満たすコンプライアンス プログラムのこと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OpenChain Specification</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170526T234258Z" creationid="maabou" creationdate="20170526T234258Z">
+        <seg>OpenChain 仕様書</seg>
       </tuv>
     </tu>
     <tu>
@@ -945,6 +969,14 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This document is licensed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170526T234705Z" creationid="maabou" creationdate="20170526T234705Z">
+        <seg>本仕様書の利用は、Creative Commons Attribution 4.0 International (CC-BY 4.0) ライセンスの下で許諾されます。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This ensures a practical level of flexibility that enables different organizations to tailor their policies and processes to best fit their objectives.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T071601Z" creationid="maabou" creationdate="20170307T093357Z">
@@ -1018,10 +1050,26 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Verification Artifacts are not intended to be public, but could be provided under NDA or upon private request from the OpenChain organization to validate conformance.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T000627Z" creationid="maabou" creationdate="20170527T000627Z">
+        <seg>「 検証すべき証跡（Verification Artifact）」は、公開されることが意図されたものではありませんが、守秘義務契約（NDA）下や</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Version 1.0</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170320T062419Z" creationid="maabou" creationdate="20170320T062419Z">
         <seg>第1.0版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Version 1.1</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170526T234315Z" creationid="maabou" creationdate="20170526T234315Z">
+        <seg>第 1.1 版</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,6 +1080,14 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170424T212211Z" creationid="maabou" creationdate="20170307T093122Z">
         <seg>ビジョン： フリー／オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vision: A software supply chain where free/open source software (FOSS) is delivered with trustworthy and consistent compliance information.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170526T235817Z" creationid="maabou" creationdate="20170526T235817Z">
+        <seg>フリー／オープンソース ソフトウェア（FOSS）が、信頼性と一貫性のあるコンプライアンス情報とともに提供されるソフトウェア サプライチェーンを実現すること。</seg>
       </tuv>
     </tu>
     <tu>

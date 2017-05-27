@@ -128,3 +128,6 @@ literary	著述の、文学の、文芸の	文芸として広く捉える場合�
 entity	実体
 subject to	依存する、影響下・支配下にある
 circle	サークル、団体、分野、領域
+NDA	機密［秘密］保持契約（書）、守秘義務契約（書）	non-disclosure agreement
+upon request	要請に応じて
+validate	～の正当性を立証する、～が正当であると確認する、～を認証する、〔法的に〕～を有効にする
