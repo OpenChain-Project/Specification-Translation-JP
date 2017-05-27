@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A description of the SPDX specification can be found at www.spdx.org.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T041551Z" creationid="maabou" creationdate="20170527T041551Z">
+        <seg>SPDXについてはwww.spdx.orgにその仕様が記載されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A documented FOSS contribution policy exists;</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T192307Z" creationid="maabou" creationdate="20170320T015731Z">
@@ -183,6 +191,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>A written FOSS policy exists that governs FOSS license compliance of the Supplied Software distribution.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T042010Z" creationid="maabou" creationdate="20170527T042010Z">
+        <seg>供給ソフトウェアの頒布についてFOSSライセンス コンプライアンスを統制するFOSSポリシーが書面として存在していること。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:「communicated」は意訳。ポリシーの存在が認知されている、というニュアンス。理解されていなくても存在自体が「行き届いている」という感じ。</note>
       <tuv lang="EN-US">
         <seg>A written policy exists that governs contributions to publicly accessible FOSS projects by employees on behalf of the organization where, as a minimum, it must be internally communicated.</seg>
@@ -199,6 +215,14 @@
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T101037Z" creationid="maabou" creationdate="20170311T001635Z">
         <seg>FOSSポリシーに含まれるべき内容についてはここで提示されませんが、他の要件で提示されることがあります。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although no requirements are provided here on what should be included in the policy, other sections may impose requirements on the policy.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T042843Z" creationid="maabou" creationdate="20170527T042837Z">
+        <seg>FOSSポリシーに含まれるべき内容についてはここで提示されませんが、他の節でポリシー上の要件として課される場合があります。</seg>
       </tuv>
     </tu>
     <tu>
@@ -248,6 +272,14 @@
         <seg>Basics of IP law pertaining to FOSS and FOSS licenses;</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T125457Z" creationid="maabou" creationdate="20170309T203727Z">
+        <seg>FOSSおよびFOSSライセンスに付随する知的財産権関連法令の基礎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Basics of Intellectual Property law pertaining to FOSS and FOSS licenses;</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T042934Z" creationid="maabou" creationdate="20170527T042934Z">
         <seg>FOSSおよびFOSSライセンスに付随する知的財産権関連法令の基礎</seg>
       </tuv>
     </tu>
@@ -675,6 +707,14 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>OpenChain Conforming - a program that satisfies all the requirements of this specification.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T041521Z" creationid="maabou" creationdate="20170527T041521Z">
+        <seg>OpenChain適合（OpenChain Conforming）－ 本仕様書のすべての要件を満たすコンプライアンス プログラムのこと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>OpenChain Conforming – a program that satisfies all the requirements of this specification.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T093706Z" creationid="maabou" creationdate="20170307T130208Z">
@@ -749,6 +789,14 @@ mieko:この最初の2つの箇条書きだけ、表現(英語の文体)が異�
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SPDX or Software Package Data Exchange - the format standard created by the SPDX Working Group for exchanging license and copyright information for a given software package.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T041544Z" creationid="maabou" creationdate="20170527T041544Z">
+        <seg>SPDX もしくはSoftware Package Data Exchange － SPDXワーキング グループによって作られ、ライセンスや著作権情報をやりとりすることを目的としたフォーマット標準のこと。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SPDX or Software Package Data Exchange – the format standard created by the SPDX Working Group for exchanging license and copyright information for a given software package.</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T095427Z" creationid="maabou" creationdate="20170308T060837Z">
@@ -804,6 +852,14 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T130330Z" creationid="maabou" creationdate="20170310T015630Z">
         <seg>FOSSコンプライアンスに具体的に関係し、FOSSポリシー全般に関係するソフトウェア スタッフの役割と責任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supplied Software - software that an organization delivers to third parties (e.g., other organizations or individuals).</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T041809Z" creationid="maabou" creationdate="20170527T041809Z">
+        <seg>供給ソフトウェア（Supplied Software）－ 組織が第三者（他組織または個人）に対して提供するソフトウェアのこと。</seg>
       </tuv>
     </tu>
     <tu>
@@ -895,6 +951,14 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN-US">
+        <seg>The policy must be internally communicated.</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T042136Z" creationid="maabou" creationdate="20170527T042136Z">
+        <seg>またそのポリシーは組織内に周知されていなければならない。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>tani:ここの役はまだ曖昧なので要レビュー</note>
       <tuv lang="EN-US">
         <seg>The recorded inventory also serves as evidence that the process was followed.</seg>
@@ -941,6 +1005,14 @@ tani:Specificallyとin generalで対比している？</note>
         <seg>The training, as a minimum, covers the following topics:</seg>
       </tuv>
       <tuv lang="JA" changeid="maabou" changedate="20170409T125403Z" creationid="maabou" creationdate="20170309T202417Z">
+        <seg>トレーニングは少なくとも以下に示すトピックを含んでいること。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The training, at a minimum, covers the following topics:</seg>
+      </tuv>
+      <tuv lang="JA" changeid="maabou" changedate="20170527T042910Z" creationid="maabou" creationdate="20170527T042910Z">
         <seg>トレーニングは少なくとも以下に示すトピックを含んでいること。</seg>
       </tuv>
     </tu>
