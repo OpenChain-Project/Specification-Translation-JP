@@ -183,6 +183,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A procedure has been implemented that handles the common FOSS license use cases for the FOSS components of each Supplied Software release.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T091430Z" creationid="maabou" creationdate="20170527T091430Z">
+        <seg>供給ソフトウェアそれぞれのリリースのFOSSコンポーネントに対し、共通的なFOSSライセンスのユースケースを取り扱うプロセスが整備されている。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A process exists for creating and managing a FOSS component bill of materials which includes each component (and its Identified Licenses) in a Supplied Software release.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170527T065828Z" creationid="maabou" creationdate="20170527T065828Z">
@@ -994,6 +1002,14 @@ tani:Specificallyとin generalで対比している？</note>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>That a procedure exists to support this activity and that the procedure is followed.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T092229Z" creationid="maabou" creationdate="20170527T092229Z">
+        <seg>そしてその活動を支援する手続きが存在し、その手続きに従っていることを確かなものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The FOSS Compliance role and the FOSS Liaison can be the same individual.</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170409T134244Z" creationid="maabou" creationdate="20170312T201503Z">
@@ -1014,6 +1030,14 @@ tani:Specificallyとin generalで対比している？</note>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170409T192645Z" creationid="maabou" creationdate="20170320T025823Z">
         <seg>FOSSコントリビューション ポリシーは、組織全体のFOSSポリシーの一部として策定することも、独立したポリシーとして策定することも可能です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The FOSS management program must be capable of handling common FOSS license use cases encountered by Software Staff for Supplied Software, which may include the following use cases (note that the list is neither exhaustive, nor may all of the use cases apply):</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T090621Z" creationid="maabou" creationdate="20170527T090621Z">
+        <seg>FOSSのマネジメント プログラムは、ソフトウェア スタッフが扱う供給ソフトウェアの共通的なFOSSユースケースに対応できること。共通的ユースケースとして以下のようなものがある（ただしこのリストは網羅的ではなく、組織によっては当てはまらないこともある）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1244,6 +1268,14 @@ tani:原文の用語を残すことで読者が検証できるように配慮す
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>To ensure the program is sufficiently robust to handle an organization’s common FOSS license use cases.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T091919Z" creationid="maabou" creationdate="20170527T091919Z">
+        <seg>そのプログラムが組織における共通的なFOSSライセンスのユースケースに対応できるよう十分堅固なものにします。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Verification Artifact(s):</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170409T095531Z" creationid="maabou" creationdate="20170308T115440Z">
@@ -1362,6 +1394,14 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>contains  FOSS  or  other  software  under  an  incompatible  license  interacting  with  other components within the Supplied Software; and/or</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T091131Z" creationid="maabou" creationdate="20170527T090910Z">
+        <seg>供給ソフトウェア内の他のコンポーネントとやりとりする、両立性 のないライセンス下のFOSSやその他のソフトウェアを含んでいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>contains FOSS or other software under an incompatible license interacting with other components within the Supplied Software</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170409T190048Z" creationid="maabou" creationdate="20170316T050609Z">
@@ -1378,9 +1418,25 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>contains FOSS with attribution requirements.</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T091140Z" creationid="maabou" creationdate="20170527T090937Z">
+        <seg>もしくは、帰属要求（Attribution requirement）のあるFOSSを含んでいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>contains modified FOSS</seg>
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170409T185823Z" creationid="maabou" creationdate="20170316T045307Z">
+        <seg>改変されたFOSSを含んでいる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>contains modified FOSS;</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T090837Z" creationid="maabou" creationdate="20170527T090837Z">
         <seg>改変されたFOSSを含んでいる</seg>
       </tuv>
     </tu>
@@ -1398,6 +1454,30 @@ tani:ここは原文での分節区切りの場所が間違っていると思わ
       </tuv>
       <tuv xml:lang="JA" changeid="maabou" changedate="20170416T064209Z" creationid="maabou" creationdate="20170316T211756Z">
         <seg>著作権表示（Copyright notice）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>distributed in binary form;</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T090647Z" creationid="maabou" creationdate="20170527T090647Z">
+        <seg>バイナリ形態で頒布されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>distributed in source form;</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T090652Z" creationid="maabou" creationdate="20170527T090652Z">
+        <seg>ソースコード形態で頒布されている</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>integrated with other FOSS such that it may trigger copyleft obligations;</seg>
+      </tuv>
+      <tuv xml:lang="JA" changeid="maabou" changedate="20170527T090740Z" creationid="maabou" creationdate="20170527T090740Z">
+        <seg>コピーレフトの義務を生じうる他のFOSSと統合されている</seg>
       </tuv>
     </tu>
     <tu>
