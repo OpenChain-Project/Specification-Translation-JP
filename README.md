@@ -13,7 +13,7 @@ This repository is a work place to translate [OpenChain Specification](https://w
 ・OpenChain Specificationは著作権者The Linux Foundationよりクリエイティブコモンズ ライセンス「[Creative Commons Attribution License 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)」の下でライセンスされます。
 
 
-・Copyright c 2016 The Linux Foundation. The specification is licensed
+・Copyright (c) 2016 The Linux Foundation. The specification is licensed
 under the [Creative Commons Attribution License 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/legalcode). 
 ## 2.免責事項（Disclaimer）
 
