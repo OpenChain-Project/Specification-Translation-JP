@@ -95,9 +95,9 @@ glossary file is as follows;
 This is basically OpenChain Specification original document published on
 official site.
 
-- 「(3)**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
+- (3)「**target**」フォルダ：「source」フォルダの原文ファイルの翻訳後のファイルが格納されていて、OmegaTの仕様上原文ファイルと同じファイル名になります。
 
-- ”(3)**target**” folder: Translated document of “source” file is stored.
+- (3)”**target**” folder: Translated document of “source” file is stored.
 Please note that the file name is all the same as “source” file. ( This
 depends on OmegaT’s functionality)
 
