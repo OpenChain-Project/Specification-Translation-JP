@@ -1,6 +1,6 @@
 # OpenChain Specification 日本語翻訳版 ( OpenChain Specification Japanese Translation )
 
-This repository is a work space for translation. The official release translations of the OpenChain Specification are housed in a unified repository here: https://github.com/OpenChain-Project/Specification-Translations
+This repository is a depreciated work space for translation. The official release translations of the OpenChain Specification are housed in a unified repository here: https://github.com/OpenChain-Project/Specification-Translations
 
 
 本レポジトリは、The Linux Foundation のコラボレーティブプロジェクトである、[OpenChainプロジェクト](http://openchainproject.org)の公式文書の一つである、「[OpenChain Specification](https://www.openchainproject.org/spec)」の公式日本語翻訳活動のためのサイトです。翻訳版取得・閲覧およびThe Linux Foundationを主としたオープンソース関連の翻訳については、以下をご確認ください。
